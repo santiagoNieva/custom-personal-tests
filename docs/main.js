@@ -20,6 +20,7 @@ let loadedQuestions = [];     // array de objetos pregunta
 let userSelections = {};      // { [idPregunta]: índiceSeleccionado }
 
 loginBtn.addEventListener("click", async () => {
+    console.log("Login button clicked");
     try {
         const user = await loginWithGoogle();
         console.log("User logged in:", user.uid);
