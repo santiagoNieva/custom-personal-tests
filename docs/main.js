@@ -1,4 +1,4 @@
-// public/main.js
+// docs/main.js
 import { loginWithGoogle, onAuthChange, auth } from "./firebase.js";
 import { fetch55, saveProgress, getProgress } from "./dataService.js";
 import { renderQuestionCard } from "./ui/QuestionCard.js";

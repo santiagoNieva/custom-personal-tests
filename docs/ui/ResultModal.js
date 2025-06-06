@@ -1,4 +1,4 @@
-// public/ui/ResultModal.js
+// docs/ui/ResultModal.js
 export function showResultsModal(allQuestions, userSelections) {
     // allQuestions: array de objetos { id, respuestas[], explicacion }
     // userSelections: { [idPregunta]: índiceSeleccionado, … }

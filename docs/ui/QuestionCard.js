@@ -1,4 +1,4 @@
-// public/ui/QuestionCard.js
+// docs/ui/QuestionCard.js
 export function renderQuestionCard(preguntaObj) {
     // preguntaObj = { id, dificultad, pregunta, respuestas: [{texto,validez},…], explicacion }
     const { id, dificultad, pregunta, respuestas } = preguntaObj;

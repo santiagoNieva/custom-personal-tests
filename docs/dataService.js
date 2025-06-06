@@ -1,4 +1,4 @@
-// public/dataService.js
+// docs/dataService.js
 import { db, auth } from "./firebase.js";
 import {
     collection,

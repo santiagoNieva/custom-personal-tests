@@ -1,4 +1,4 @@
-// public/firebase.js
+// docs/firebase.js
 // ——————
 // 1) Importa solo las partes que necesitas desde la CDN:
 import { initializeApp }
