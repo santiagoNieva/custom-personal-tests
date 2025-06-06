@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Personal Tests</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <header>
+        <h1>Custom Personal Tests</h1>
+        <button id="loginBtn">Entrar con Google</button>
+        <span id="userStatus"></span>
+    </header>
+
+    <section id="selectors" style="display: none;">
+        <!-- Aquí pondremos los selectores de Proyecto y Categoría -->
+        <label for="proyecto">Proyecto:</label>
+        <select id="proyecto">
+            <option value="Defensoría">Defensoría</option>
+            <!-- más proyectos si quieres -->
+        </select>
+
+        <label for="categoria">Categoría:</label>
+        <select id="categoria">
+            <option value="jurídico">jurídico</option>
+            <option value="ortografía">ortografía</option>
+            <option value="manual_sae">manual_sae</option>
+        </select>
+
+        <button id="cargarPreguntasBtn">Cargar 55 preguntas</button>
+    </section>
+
+    <main id="quizContainer">
+        <!-- Aquí irán las tarjetas de preguntas -->
+    </main>
+
+    <!-- Modal para mostrar resultados/explicaciones -->
+    <div id="resultsModal" class="modal" style="display: none;">
+        <!-- El contenido lo inyectará ResultModal.js -->
+    </div>
+
+    <!-- Carga de scripts en este orden -->
+    <script type="module" src="firebase.js"></script>
+    <script type="module" src="dataService.js"></script>
+    <script type="module" src="ui/QuestionCard.js"></script>
+    <script type="module" src="ui/ResultModal.js"></script>
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>
