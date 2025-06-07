@@ -1,0 +1,927 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué órgano ejerce y representa el Poder Judicial según el Art. 1 de la Ley 6238?",
+    "respuestas": [
+      {
+        "texto": "La Corte Suprema de Justicia",
+        "validez": true
+      },
+      {
+        "texto": "El Tribunal de Impugnación",
+        "validez": false
+      },
+      {
+        "texto": "La Cámara en lo Penal",
+        "validez": false
+      },
+      {
+        "texto": "El Ministerio Público Fiscal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 1 establece que el Poder Judicial es ejercido por la Corte Suprema de Justicia, quien lo preside y representa."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de los siguientes NO forma parte de la integración del Poder Judicial según el Art. 1?",
+    "respuestas": [
+      {
+        "texto": "Cámara en lo Civil y Comercial Común",
+        "validez": false
+      },
+      {
+        "texto": "Cámara en lo Civil en Documentos y Locaciones",
+        "validez": false
+      },
+      {
+        "texto": "Cámara en lo Electora",
+        "validez": true
+      },
+      {
+        "texto": "Tribunal de Apelaciones en lo Contencioso Administrativo",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 1 menciona varias Cámaras, pero no incluye ninguna Cámara Electoral."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos tribunales de apelaciones se menciona en el Art. 1?",
+    "respuestas": [
+      {
+        "texto": "Tribunal de Apelaciones en lo Contencioso Administrativo",
+        "validez": true
+      },
+      {
+        "texto": "Tribunal de Apelaciones en lo Penal de Instrucción",
+        "validez": false
+      },
+      {
+        "texto": "Tribunal de Apelaciones en lo Laboral",
+        "validez": false
+      },
+      {
+        "texto": "Tribunal de Apelaciones en lo Civil en Familia",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 1 incluye específicamente el Tribunal de Apelaciones en lo Contencioso Administrativo."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuántos Centros Judiciales define la división territorial según el Art. 10?",
+    "respuestas": [
+      {
+        "texto": "3",
+        "validez": false
+      },
+      {
+        "texto": "4",
+        "validez": true
+      },
+      {
+        "texto": "5",
+        "validez": false
+      },
+      {
+        "texto": "6",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 10 establece cuatro Centros Judiciales: Capital, Concepción, Monteros y Este."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos NO es un Centro Judicial según el Art. 10?",
+    "respuestas": [
+      {
+        "texto": "Centro Judicial Capital",
+        "validez": false
+      },
+      {
+        "texto": "Centro Judicial Concepción",
+        "validez": false
+      },
+      {
+        "texto": "Centro Judicial Sur",
+        "validez": true
+      },
+      {
+        "texto": "Centro Judicial Monteros",
+        "validez": false
+      }
+    ],
+    "explicacion": "Los cuatro centros son Capital, Concepción, Monteros y Este; no existe un centro \"Sur\"."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuántos Vocales integra la Corte Suprema de Justicia según el Art. 11?",
+    "respuestas": [
+      {
+        "texto": "3",
+        "validez": false
+      },
+      {
+        "texto": "5",
+        "validez": true
+      },
+      {
+        "texto": "7",
+        "validez": false
+      },
+      {
+        "texto": "9",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 11 indica que la Corte Suprema está integrada por cinco (5) Vocales."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 11, ¿con qué frecuencia se elige Presidente y Vocal Decano de la Corte?",
+    "respuestas": [
+      {
+        "texto": "Cada año",
+        "validez": false
+      },
+      {
+        "texto": "Cada dos años",
+        "validez": true
+      },
+      {
+        "texto": "Cada tres años",
+        "validez": false
+      },
+      {
+        "texto": "Cada cinco años",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 11 establece que cada dos años se eligen un Presidente y un Vocal Decano."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿En cuántos miembros se divide cada Sala de la Corte Suprema según el Art. 12?",
+    "respuestas": [
+      {
+        "texto": "2",
+        "validez": false
+      },
+      {
+        "texto": "3",
+        "validez": true
+      },
+      {
+        "texto": "4",
+        "validez": false
+      },
+      {
+        "texto": "5",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 12 dispone que cada Sala estará integrada por tres (3) miembros."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de las siguientes es una atribución de superintendencia según el Art. 13?",
+    "respuestas": [
+      {
+        "texto": "Nombrar y remover a su personal",
+        "validez": true
+      },
+      {
+        "texto": "Legislar leyes provinciales",
+        "validez": false
+      },
+      {
+        "texto": "Dictar sentencias penales",
+        "validez": false
+      },
+      {
+        "texto": "Administrar recursos humanos del Poder Ejecutivo",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 13 inc.3 indica que la Corte tiene la atribución de nombrar y remover a su personal."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 13, ¿cuál de estas sanciones disciplinarias NO corresponde a Magistrados?",
+    "respuestas": [
+      {
+        "texto": "Llamado de atención",
+        "validez": false
+      },
+      {
+        "texto": "Apercibimiento",
+        "validez": false
+      },
+      {
+        "texto": "Multa de hasta el 10% de sus remuneraciones",
+        "validez": false
+      },
+      {
+        "texto": "Suspensión indefinida sin causa",
+        "validez": true
+      }
+    ],
+    "explicacion": "El Art. 13 inc.4 establece las sanciones de llamado de atención, apercibimiento y multa; no prevé suspensión indefinida sin causa."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es el mínimo de horas diarias de atención que debe fijar la Corte según el Art. 13 inc.7?",
+    "respuestas": [
+      {
+        "texto": "4 horas",
+        "validez": false
+      },
+      {
+        "texto": "6 horas",
+        "validez": true
+      },
+      {
+        "texto": "8 horas",
+        "validez": false
+      },
+      {
+        "texto": "10 horas",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 13 inc.7 establece un mínimo de seis (6) horas diarias de atención al público."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Quiénes son considerados Magistrados según el Art. 2?",
+    "respuestas": [
+      {
+        "texto": "Vocales de la Corte Suprema, de las Cámaras y Jueces",
+        "validez": true
+      },
+      {
+        "texto": "Fiscales y Defensores Oficiales",
+        "validez": false
+      },
+      {
+        "texto": "Abogados y Procuradores",
+        "validez": false
+      },
+      {
+        "texto": "Peritos y Traductores",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 2º define como Magistrados a los vocales de la Corte, de las Cámaras y los jueces."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Quiénes son considerados Funcionarios del Poder Judicial según el Art. 2?",
+    "respuestas": [
+      {
+        "texto": "Miembros del Ministerio Público (Fiscales y Defensores Oficiales)",
+        "validez": true
+      },
+      {
+        "texto": "Vocales de Cámara",
+        "validez": false
+      },
+      {
+        "texto": "Secretarios de Corte",
+        "validez": false
+      },
+      {
+        "texto": "Magistrados",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 2º establece que son funcionarios los miembros del Ministerio Público Fiscal y Pupilar."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos no es auxiliar del Poder Judicial según el Art. 4?",
+    "respuestas": [
+      {
+        "texto": "Abogados",
+        "validez": false
+      },
+      {
+        "texto": "Procuradores",
+        "validez": false
+      },
+      {
+        "texto": "Notarios Públicos",
+        "validez": true
+      },
+      {
+        "texto": "Médicos Forenses",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 4º menciona abogados, procuradores y médicos forenses, pero no notarios públicos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos NO es Organismo Auxiliar según el Art. 5?",
+    "respuestas": [
+      {
+        "texto": "Cuerpo Médico Forense",
+        "validez": false
+      },
+      {
+        "texto": "Registro Único de Sentencias",
+        "validez": false
+      },
+      {
+        "texto": "Oficina de Gestión Judicial",
+        "validez": false
+      },
+      {
+        "texto": "Consejo de la Magistratura",
+        "validez": true
+      }
+    ],
+    "explicacion": "El Art. 5º lista varios organismos auxiliares, pero no incluye el Consejo de la Magistratura."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Dónde deben recopilarse los originales de las resoluciones según el Art. 9?",
+    "respuestas": [
+      {
+        "texto": "En el libro de protocolo de cada Tribunal",
+        "validez": true
+      },
+      {
+        "texto": "En el Diario Oficial de la Provincia",
+        "validez": false
+      },
+      {
+        "texto": "En la Biblioteca de la Corte Suprema",
+        "validez": false
+      },
+      {
+        "texto": "En el Archivo General de la Nación",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 9º indica que cada Tribunal debe llevar un libro donde se compilen los originales de sus resoluciones."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo regula la División Territorial del Poder Judicial?",
+    "respuestas": [
+      {
+        "texto": "Art. 1",
+        "validez": false
+      },
+      {
+        "texto": "Art. 5",
+        "validez": false
+      },
+      {
+        "texto": "Art. 9",
+        "validez": false
+      },
+      {
+        "texto": "Art. 10",
+        "validez": true
+      }
+    ],
+    "explicacion": "El Art. 10 define la división territorial en cuatro Centros Judiciales."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos no es un Tribunal de Apelaciones según el Art. 19?",
+    "respuestas": [
+      {
+        "texto": "Cámara en lo Contencioso Administrativo",
+        "validez": false
+      },
+      {
+        "texto": "Cámara en lo Penal",
+        "validez": false
+      },
+      {
+        "texto": "Cámara en lo Agrario",
+        "validez": true
+      },
+      {
+        "texto": "Cámara en lo Civil y Comercial Común",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 19 lista varias Cámaras, pero no incluye ninguna Cámara en lo Agrario."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo establece la competencia territorial de la Corte Suprema?",
+    "respuestas": [
+      {
+        "texto": "Art. 12",
+        "validez": false
+      },
+      {
+        "texto": "Art. 16",
+        "validez": false
+      },
+      {
+        "texto": "Art. 17",
+        "validez": true
+      },
+      {
+        "texto": "Art. 18",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 17 dispone que la Corte tiene competencia territorial en toda la Provincia."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos casos conoce originariamente la Corte según el Art. 18 inc.1.a?",
+    "respuestas": [
+      {
+        "texto": "Causas en que la Provincia sea parte",
+        "validez": true
+      },
+      {
+        "texto": "Recursos de inconstitucionalidad",
+        "validez": false
+      },
+      {
+        "texto": "Quejas por denegación de justicia",
+        "validez": false
+      },
+      {
+        "texto": "Recursos de casación civil",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 18 inc.1.a indica que conoce originariamente causas en que la Provincia es parte."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo regula la elección de suplentes en caso de vacancia o inhibición?",
+    "respuestas": [
+      {
+        "texto": "Art. 12",
+        "validez": false
+      },
+      {
+        "texto": "Art. 16",
+        "validez": true
+      },
+      {
+        "texto": "Art. 17",
+        "validez": false
+      },
+      {
+        "texto": "Art. 18",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 16 establece cómo se procede a la suplencia en caso de vacancia, impedimento o inhibición."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 16 bis, ¿cuántos votos se requieren para decisiones válidas de la Corte?",
+    "respuestas": [
+      {
+        "texto": "2 votos",
+        "validez": false
+      },
+      {
+        "texto": "3 votos",
+        "validez": true
+      },
+      {
+        "texto": "4 votos",
+        "validez": false
+      },
+      {
+        "texto": "5 votos",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 16 bis indica que las decisiones se adoptan con el voto de al menos tres miembros."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo regula la delegación de atribuciones de superintendencia?",
+    "respuestas": [
+      {
+        "texto": "Art. 12",
+        "validez": false
+      },
+      {
+        "texto": "Art. 14",
+        "validez": true
+      },
+      {
+        "texto": "Art. 15",
+        "validez": false
+      },
+      {
+        "texto": "Art. 17",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 14 establece la posibilidad de delegar la superintendencia en el Presidente y en Tribunales designados."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es una función del Presidente de la Corte según el Art. 15?",
+    "respuestas": [
+      {
+        "texto": "Representar al Poder Judicial",
+        "validez": true
+      },
+      {
+        "texto": "Legislar normas procesales",
+        "validez": false
+      },
+      {
+        "texto": "Dirigir el Ministerio Público",
+        "validez": false
+      },
+      {
+        "texto": "Nombrar diputados provinciales",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 15 inc.1 indica que una función del Presidente es representar al Poder Judicial."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué establece el Art. 6 sobre requisitos de Magistrados y Funcionarios?",
+    "respuestas": [
+      {
+        "texto": "Deben cumplir requisitos que establezcan la Constitución y las leyes",
+        "validez": true
+      },
+      {
+        "texto": "Solo deben tener título de abogado",
+        "validez": false
+      },
+      {
+        "texto": "No requieren ningún requisito",
+        "validez": false
+      },
+      {
+        "texto": "Deben ser designados por el Gobernador",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 6 señala que los Magistrados y Funcionarios deben reunir los requisitos que la Constitución y las leyes establezcan."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 7, ¿cómo se efectúa el nombramiento de funcionarios no previstos en la Constitución?",
+    "respuestas": [
+      {
+        "texto": "Por decreto del Gobernador",
+        "validez": false
+      },
+      {
+        "texto": "Según lo determine la Ley y reglamentos",
+        "validez": true
+      },
+      {
+        "texto": "Por concurso público abierto",
+        "validez": false
+      },
+      {
+        "texto": "Por votación ciudadana",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 7 establece que el nombramiento se hará del modo que la Ley y los reglamentos determinen."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estos NO es Organismo Auxiliar del Poder Judicial según el Art. 5?",
+    "respuestas": [
+      {
+        "texto": "Archivo del Poder Judicial",
+        "validez": false
+      },
+      {
+        "texto": "Morgue Judicial",
+        "validez": false
+      },
+      {
+        "texto": "Oficina de Gestión Judicial",
+        "validez": false
+      },
+      {
+        "texto": "Ministerio de Educación",
+        "validez": true
+      }
+    ],
+    "explicacion": "El Art. 5 lista organismos auxiliares internos, no incluye al Ministerio de Educación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo exige un libro de protocolos para las resoluciones?",
+    "respuestas": [
+      {
+        "texto": "Art. 8",
+        "validez": false
+      },
+      {
+        "texto": "Art. 9",
+        "validez": true
+      },
+      {
+        "texto": "Art. 10",
+        "validez": false
+      },
+      {
+        "texto": "Art. 11",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 9 dispone llevar un libro para compilar los originales de las resoluciones."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 13 inc.2, ¿qué procedimiento implementará la Corte para designar empleados?",
+    "respuestas": [
+      {
+        "texto": "Selección por méritos políticos",
+        "validez": false
+      },
+      {
+        "texto": "Selección por idoneidad y igualdad de oportunidades",
+        "validez": true
+      },
+      {
+        "texto": "Selección por antigüedad única",
+        "validez": false
+      },
+      {
+        "texto": "Concurso abierto internacional",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 13 inc.2 establece igualdad de oportunidades y selección por idoneidad."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Quiénes prestan juramento ante el Ministro de la Defensa según el Art. 8?",
+    "respuestas": [
+      {
+        "texto": "Los Fiscales",
+        "validez": false
+      },
+      {
+        "texto": "Los Defensores y Funcionarios del Ministerio Pupilar y de la Defensa",
+        "validez": true
+      },
+      {
+        "texto": "Los Jueces de Paz",
+        "validez": false
+      },
+      {
+        "texto": "Los Peritos Forense",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 8 establece que los Defensores y funcionarios del Ministerio Pupilar prestan juramento ante el Ministro de la Defensa o Defensor Oficial designado."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo señala los funcionarios de ley del Ministerio Público Fiscal?",
+    "respuestas": [
+      {
+        "texto": "Art. 2",
+        "validez": false
+      },
+      {
+        "texto": "Art. 3",
+        "validez": true
+      },
+      {
+        "texto": "Art. 4",
+        "validez": false
+      },
+      {
+        "texto": "Art. 5",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 3 inciso 2 define los funcionarios del Ministerio Público Fiscal."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo establece el régimen disciplinario y sanciones de empleados del Poder Judicial?",
+    "respuestas": [
+      {
+        "texto": "Art. 10",
+        "validez": false
+      },
+      {
+        "texto": "Art. 13 inc.4",
+        "validez": true
+      },
+      {
+        "texto": "Art. 14",
+        "validez": false
+      },
+      {
+        "texto": "Art. 15",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 13 inciso 4 regula el régimen y tipo de sanciones disciplinarias."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Según el Art. 13 inc.21, a qué se destinan los fondos que provee la Corte?",
+    "respuestas": [
+      {
+        "texto": "Gastos de mantenimiento de edificios",
+        "validez": false
+      },
+      {
+        "texto": "Adelanto de gastos para partes y testigos sin recursos",
+        "validez": true
+      },
+      {
+        "texto": "Compras de mobiliario",
+        "validez": false
+      },
+      {
+        "texto": "Pago de honorarios de abogados privados",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 13 inc.21 establece fondos destinados al adelanto de gastos para partes y testigos carentes de recursos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo define la competencia material de la Corte Suprema?",
+    "respuestas": [
+      {
+        "texto": "Art. 16",
+        "validez": false
+      },
+      {
+        "texto": "Art. 17",
+        "validez": false
+      },
+      {
+        "texto": "Art. 18",
+        "validez": true
+      },
+      {
+        "texto": "Art. 19",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 18 establece la competencia material de la Corte Suprema."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de estas NO es una función de superintendencia de la Corte según el Art. 13 inc.13?",
+    "respuestas": [
+      {
+        "texto": "Reglamentar la escuela de especialización",
+        "validez": false
+      },
+      {
+        "texto": "Regular la administración de bienes de menores",
+        "validez": false
+      },
+      {
+        "texto": "Convocar al Poder Ejecutivo a sesionar",
+        "validez": true
+      },
+      {
+        "texto": "Inspeccionar la administración de bienes de menores",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Corte no tiene atribución para convocar al Poder Ejecutivo a sesionar; el Art. 13 inc.13 regula la administración de bienes de menores."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo contempla la creación de la escuela de capacitación para magistrados?",
+    "respuestas": [
+      {
+        "texto": "Art. 12",
+        "validez": false
+      },
+      {
+        "texto": "Art. 13 inc.14",
+        "validez": true
+      },
+      {
+        "texto": "Art. 14",
+        "validez": false
+      },
+      {
+        "texto": "Art. 15",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 13 inciso 14 establece la creación de una escuela de especialización y capacitación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo regula la solicitud de presupuesto anual del Ministerio Público Pupilar y de la Defensa?",
+    "respuestas": [
+      {
+        "texto": "Art. 12",
+        "validez": false
+      },
+      {
+        "texto": "Art. 13 inc.14",
+        "validez": false
+      },
+      {
+        "texto": "Art. 13 inc.15",
+        "validez": false
+      },
+      {
+        "texto": "El Art. 13 no regula esto",
+        "validez": true
+      }
+    ],
+    "explicacion": "La solicitud de presupuesto es parte de las atribuciones generales pero no figura expresamente en el Art. 13 (más bien en Art. 13 inc.19 y el 91 de Ley orgánica)."
+  }
+]

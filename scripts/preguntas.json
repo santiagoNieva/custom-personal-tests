@@ -1,0 +1,1377 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el Código Penal Argentino, ¿cuál de los siguientes supuestos configura el delito de lesiones gravísimas (art. 91)?",
+    "respuestas": [
+      {
+        "texto": "Incapacidad para trabajar por diez días",
+        "validez": false
+      },
+      {
+        "texto": "Pérdida de un órgano o sentido",
+        "validez": true
+      },
+      {
+        "texto": "Fractura que sana en veinte días",
+        "validez": false
+      },
+      {
+        "texto": "Cicatriz puramente estética",
+        "validez": false
+      }
+    ],
+    "explicacion": "El art. 91 CP califica como lesiones gravísimas, entre otros supuestos, la pérdida de un órgano, sentido o miembro, o la imposibilidad permanente de usarlo."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En el art. 80 CP, el homicidio calificado por vínculo se configura cuando la víctima es:",
+    "respuestas": [
+      {
+        "texto": "Un amigo íntimo",
+        "validez": false
+      },
+      {
+        "texto": "El cónyuge o persona unida en relación de pareja",
+        "validez": true
+      },
+      {
+        "texto": "Un desconocido",
+        "validez": false
+      },
+      {
+        "texto": "Un compañero de trabajo",
+        "validez": false
+      }
+    ],
+    "explicacion": "El art. 80 inc. 1º agrava el homicidio cuando la víctima es el cónyuge, excónyuge o persona con la que mantiene o mantuvo relación de pareja."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El hurto simple (art. 162 CP) se caracteriza por:",
+    "respuestas": [
+      {
+        "texto": "Uso de violencia o intimidación",
+        "validez": false
+      },
+      {
+        "texto": "Sustracción sin violencia ni intimidación",
+        "validez": true
+      },
+      {
+        "texto": "Uso de arma de fuego",
+        "validez": false
+      },
+      {
+        "texto": "Ingreso a vivienda habitada",
+        "validez": false
+      }
+    ],
+    "explicacion": "El hurto simple exige la sustracción de cosa mueble ajena SIN violencia ni intimidación en las personas ni fuerza en las cosas."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El delito de estafa (art. 172 CP) requiere como elemento típico:",
+    "respuestas": [
+      {
+        "texto": "Violencia física",
+        "validez": false
+      },
+      {
+        "texto": "Engaño suficiente que produzca error y disposición patrimonial",
+        "validez": true
+      },
+      {
+        "texto": "Abuso de autoridad pública",
+        "validez": false
+      },
+      {
+        "texto": "Amenaza grave con arma",
+        "validez": false
+      }
+    ],
+    "explicacion": "Para la estafa el núcleo es el engaño idóneo que lleva a la víctima a un error con perjuicio patrimonial propio o ajeno."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La tentativa es punible cuando el autor:",
+    "respuestas": [
+      {
+        "texto": "Solo realiza actos preparatorios",
+        "validez": false
+      },
+      {
+        "texto": "Inicia la ejecución y no consuma el delito por causas ajenas a su voluntad",
+        "validez": true
+      },
+      {
+        "texto": "Desiste voluntariamente antes de iniciar la ejecución",
+        "validez": false
+      },
+      {
+        "texto": "Se arrepiente después de consumar el delito",
+        "validez": false
+      }
+    ],
+    "explicacion": "Conforme art. 42 CP, la tentativa exige comienzo de ejecución y no consumación por causas independientes de la voluntad del autor."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el art. 34 CP, la legítima defensa requiere, entre otros, que exista:",
+    "respuestas": [
+      {
+        "texto": "Emoción violenta",
+        "validez": false
+      },
+      {
+        "texto": "Agresión ilegítima",
+        "validez": true
+      },
+      {
+        "texto": "Obediencia debida",
+        "validez": false
+      },
+      {
+        "texto": "Provocación suficiente del defensor",
+        "validez": false
+      }
+    ],
+    "explicacion": "El primer requisito de la legítima defensa es la existencia de una agresión ilegítima en curso o inminente."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Se considera autor mediato cuando el sujeto:",
+    "respuestas": [
+      {
+        "texto": "Ejecuta materialmente el hecho",
+        "validez": false
+      },
+      {
+        "texto": "Se vale de otra persona como instrumento para cometer el delito",
+        "validez": true
+      },
+      {
+        "texto": "Induce directamente a otro a delinquir",
+        "validez": false
+      },
+      {
+        "texto": "Encubre al autor principal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El autor mediato ejerce dominio mediante otro que actúa sin culpabilidad o bajo coacción (instrumento humano)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El encubrimiento simple (art. 277 CP) se configura cuando alguien:",
+    "respuestas": [
+      {
+        "texto": "Obtiene provecho económico directo del delito",
+        "validez": false
+      },
+      {
+        "texto": "Fue partícipe necesario del hecho principal",
+        "validez": false
+      },
+      {
+        "texto": "Ayuda a eludir la investigación o captura al autor sin haber participado del delito",
+        "validez": true
+      },
+      {
+        "texto": "Es funcionario público y omite denunciar un delito",
+        "validez": false
+      }
+    ],
+    "explicacion": "El encubridor no participó del delito pero presta auxilio posterior impidiendo la acción de la justicia."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El delito de abandono de persona (art. 106 CP) protege principalmente:",
+    "respuestas": [
+      {
+        "texto": "Bienes patrimoniales",
+        "validez": false
+      },
+      {
+        "texto": "La vida y la salud del sujeto pasivo",
+        "validez": true
+      },
+      {
+        "texto": "La libertad ambulatoria",
+        "validez": false
+      },
+      {
+        "texto": "El honor y la intimidad",
+        "validez": false
+      }
+    ],
+    "explicacion": "El tipo penal sanciona poner en peligro o comprometer la vida o salud de quien se tiene la obligación de cuidar."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La corrupción de menores (art. 125 CP) se configura cuando la víctima tiene:",
+    "respuestas": [
+      {
+        "texto": "Menos de 13 años",
+        "validez": true
+      },
+      {
+        "texto": "Menos de 16 años",
+        "validez": false
+      },
+      {
+        "texto": "Menos de 18 años",
+        "validez": false
+      },
+      {
+        "texto": "Más de 18 años",
+        "validez": false
+      }
+    ],
+    "explicacion": "El art. 125 prevé la corrupción de menores de TRECE (13) años como forma agravada automática."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En el sistema adversarial tucumano (Ley 8933), la dirección de la investigación preparatoria corresponde a:",
+    "respuestas": [
+      {
+        "texto": "El Juez de Garantías",
+        "validez": false
+      },
+      {
+        "texto": "El Ministerio Público Fiscal",
+        "validez": true
+      },
+      {
+        "texto": "La Oficina de Gestión de Audiencias",
+        "validez": false
+      },
+      {
+        "texto": "La Policía de Tucumán",
+        "validez": false
+      }
+    ],
+    "explicacion": "El modelo acusatorio separa funciones: el MPF investiga y acusa; el juez controla la legalidad (art. 42 y ss. Ley 8933)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La audiencia de formalización de cargos (apertura formal) debe celebrarse dentro de:",
+    "respuestas": [
+      {
+        "texto": "24 horas de la detención",
+        "validez": false
+      },
+      {
+        "texto": "48 horas de la detención",
+        "validez": true
+      },
+      {
+        "texto": "72 horas de la detención",
+        "validez": false
+      },
+      {
+        "texto": "Cinco días de la detención",
+        "validez": false
+      }
+    ],
+    "explicacion": "El art. 234 CPP prevé control judicial en 48 h; en ese plazo se formalizan cargos garantizando defensa temprana."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La duración máxima de la etapa preparatoria antes de formular acusación es de:",
+    "respuestas": [
+      {
+        "texto": "3 meses (prorrogables)",
+        "validez": false
+      },
+      {
+        "texto": "6 meses (prorrogables con control judicial)",
+        "validez": true
+      },
+      {
+        "texto": "12 meses improrrogables",
+        "validez": false
+      },
+      {
+        "texto": "18 meses con posibilidad de extensión",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Ley 8933 fija un plazo ordinario de 6 meses (art. 229), prorrogable por motivos fundados."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La Oficina de Gestión de Audiencias (OGA) tiene como función principal:",
+    "respuestas": [
+      {
+        "texto": "Resolver excepciones y nulidades",
+        "validez": false
+      },
+      {
+        "texto": "Brindar soporte administrativo y organizar las audiencias",
+        "validez": true
+      },
+      {
+        "texto": "Representar a la víctima",
+        "validez": false
+      },
+      {
+        "texto": "Ejercer la defensa pública",
+        "validez": false
+      }
+    ],
+    "explicacion": "La OGA asiste a jueces y partes en la logística, sin facultades jurisdiccionales (Sección 4 Ley 8933)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Para dictar prisión preventiva el juez debe verificar, entre otros extremos:",
+    "respuestas": [
+      {
+        "texto": "Pena mínima superior a 3 años",
+        "validez": false
+      },
+      {
+        "texto": "Existencia de peligro de fuga u obstaculización, además de fumus delicti",
+        "validez": true
+      },
+      {
+        "texto": "Antecedentes penales firmes",
+        "validez": false
+      },
+      {
+        "texto": "Aceptación de la víctima",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 236 CPP: además de probabilidad de autoría, deben concurrir riesgos procesales concretos de fuga u obstaculización."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El control de la acusación y admisibilidad de la prueba se realiza en la:",
+    "respuestas": [
+      {
+        "texto": "Etapa preliminar policial",
+        "validez": false
+      },
+      {
+        "texto": "Etapa intermedia (Audiencia de Control de Acusación)",
+        "validez": true
+      },
+      {
+        "texto": "Plenaria del juicio oral",
+        "validez": false
+      },
+      {
+        "texto": "Etapa de ejecución de sentencia",
+        "validez": false
+      }
+    ],
+    "explicacion": "La etapa intermedia garantiza depuración de la acusación y de la prueba antes del debate (arts. 260265 CPP)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El principio de publicidad en el nuevo CPP implica que:",
+    "respuestas": [
+      {
+        "texto": "Todo el proceso se desarrolla en secreto",
+        "validez": false
+      },
+      {
+        "texto": "Las audiencias son públicas salvo excepciones fundadas",
+        "validez": true
+      },
+      {
+        "texto": "Solo las partes pueden asistir, nunca el público",
+        "validez": false
+      },
+      {
+        "texto": "Es obligatorio transmitir el juicio por TV",
+        "validez": false
+      }
+    ],
+    "explicacion": "La oralidad y publicidad aseguran control social; el juez puede restringir por razones de moral, seguridad, etc. (art. 110 CPP)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En el juicio oral adversarial, el juez que dicta sentencia conoce los hechos:",
+    "respuestas": [
+      {
+        "texto": "De la lectura del expediente escrito",
+        "validez": false
+      },
+      {
+        "texto": "De la carpeta fiscal solamente",
+        "validez": false
+      },
+      {
+        "texto": "Únicamente a través de la prueba rendida en el debate",
+        "validez": true
+      },
+      {
+        "texto": "Por los informes policiales previos",
+        "validez": false
+      }
+    ],
+    "explicacion": "Rige el principio de inmediación: el juez decide según la prueba producida y controlada en audiencia pública."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Los criterios de oportunidad permiten al Fiscal:",
+    "respuestas": [
+      {
+        "texto": "Archivar la causa sin control alguno",
+        "validez": false
+      },
+      {
+        "texto": "Discontinuar la acción penal en supuestos tasados con control judicial, p. ej. pena natural o insignificancia",
+        "validez": true
+      },
+      {
+        "texto": "Dictar sentencia abreviada sin juez",
+        "validez": false
+      },
+      {
+        "texto": "Conceder indultos individuales",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 31 CPP: la oportunidad busca racionalizar la persecución penal manteniendo control judicial y derecho de la víctima."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El “Período de Resolución de Causas Pendientes” (Ley 9243) fue creado para:",
+    "respuestas": [
+      {
+        "texto": "Juzgar causas viejas del sistema escrito hasta su extinción",
+        "validez": true
+      },
+      {
+        "texto": "Implementar jurados populares en delitos graves",
+        "validez": false
+      },
+      {
+        "texto": "Reformar la ley orgánica de tribunales",
+        "validez": false
+      },
+      {
+        "texto": "Capacitar a fiscales adjuntos",
+        "validez": false
+      }
+    ],
+    "explicacion": "Se trata de un régimen transitorio destinado a finalizar expedientes del procedimiento anterior antes de 2026."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el Código Civil y Comercial, un contrato de compraventa de inmueble requiere:",
+    "respuestas": [
+      {
+        "texto": "Instrumento privado simple",
+        "validez": false
+      },
+      {
+        "texto": "Escritura pública otorgada ante escribano",
+        "validez": true
+      },
+      {
+        "texto": "Solo intercambio de emails",
+        "validez": false
+      },
+      {
+        "texto": "Una nota firmada por testigos",
+        "validez": false
+      }
+    ],
+    "explicacion": "Los arts. 1017 y 1184 CCyC exigen la forma de escritura pública para actos traslativos de dominio sobre inmuebles."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La capacidad de ejercicio plena se adquiere, como regla, a los:",
+    "respuestas": [
+      {
+        "texto": "13 años",
+        "validez": false
+      },
+      {
+        "texto": "16 años",
+        "validez": false
+      },
+      {
+        "texto": "18 años",
+        "validez": true
+      },
+      {
+        "texto": "21 años",
+        "validez": false
+      }
+    ],
+    "explicacion": "El art. 24 CCyC fija la mayoría de edad a los 18 años."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La responsabilidad civil extracontractual requiere concurrencia de:",
+    "respuestas": [
+      {
+        "texto": "Solo culpa",
+        "validez": false
+      },
+      {
+        "texto": "Culpa o riesgo, daño y relación causal",
+        "validez": true
+      },
+      {
+        "texto": "Ánimo de lucro del autor",
+        "validez": false
+      },
+      {
+        "texto": "Existencia de un contrato previo",
+        "validez": false
+      }
+    ],
+    "explicacion": "Arts. 17161717 CCyC: debe probarse hecho ilícito, imputación, daño y nexo causal."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El plazo general de prescripción de las acciones personales es de:",
+    "respuestas": [
+      {
+        "texto": "Un año",
+        "validez": false
+      },
+      {
+        "texto": "Dos años",
+        "validez": false
+      },
+      {
+        "texto": "Cinco años",
+        "validez": true
+      },
+      {
+        "texto": "Diez años",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 2560 inciso 1 CCyC: las acciones personales prescriben a los cinco (5) años, salvo plazo especial."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Para que una unión convivencial produzca efectos frente a terceros debe:",
+    "respuestas": [
+      {
+        "texto": "Inscribirse en el Registro Civil correspondiente",
+        "validez": true
+      },
+      {
+        "texto": "Publicarse en el Boletín Oficial",
+        "validez": false
+      },
+      {
+        "texto": "Protocolizarse ante escribano",
+        "validez": false
+      },
+      {
+        "texto": "No requiere formalidad alguna",
+        "validez": false
+      }
+    ],
+    "explicacion": "Arts. 509511 CCyC: la inscripción es constitutiva de publicidad frente a terceros."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En el mandato sin representación, frente a terceros obligados queda:",
+    "respuestas": [
+      {
+        "texto": "Solo el mandante",
+        "validez": false
+      },
+      {
+        "texto": "Solo el mandatario que contrata a su nombre",
+        "validez": true
+      },
+      {
+        "texto": "Ninguno de los dos",
+        "validez": false
+      },
+      {
+        "texto": "Ambos solidariamente",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 1321 CCyC: cuando actúa sin revelar el mandato, el mandatario queda obligado personalmente."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Una oferta al público es revocable:",
+    "respuestas": [
+      {
+        "texto": "Solo después de 10 días",
+        "validez": false
+      },
+      {
+        "texto": "Mientras no haya sido aceptada y se preserve la buena fe",
+        "validez": true
+      },
+      {
+        "texto": "Nunca",
+        "validez": false
+      },
+      {
+        "texto": "Solo con autorización judicial",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 976 CCyC: las ofertas revocables pueden retirarse antes de la aceptación salvo promesa en contrario."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La responsabilidad parental termina, como regla, cuando el hijo cumple:",
+    "respuestas": [
+      {
+        "texto": "16 años",
+        "validez": false
+      },
+      {
+        "texto": "18 años",
+        "validez": true
+      },
+      {
+        "texto": "21 años",
+        "validez": false
+      },
+      {
+        "texto": "25 años",
+        "validez": false
+      }
+    ],
+    "explicacion": "Arts. 639 y 705 CCyC: mayoría de edad (18) extingue la patria potestad, sin perjuicio de alimentos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La figura de ‘lesión subjetiva’ en contratos permite rescindir cuando la ventaja patrimonial supera:",
+    "respuestas": [
+      {
+        "texto": "5 %",
+        "validez": false
+      },
+      {
+        "texto": "10 %",
+        "validez": false
+      },
+      {
+        "texto": "20 %",
+        "validez": false
+      },
+      {
+        "texto": "50 % de desproporción al momento del contrato",
+        "validez": true
+      }
+    ],
+    "explicacion": "Art. 332 CCyC presume lesión cuando la desproporción supera la mitad del valor al contratar."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En la fianza solidaria el acreedor puede reclamar al fiador:",
+    "respuestas": [
+      {
+        "texto": "Solo luego de excusión de bienes del deudor",
+        "validez": false
+      },
+      {
+        "texto": "Directamente, sin necesidad de excusión",
+        "validez": true
+      },
+      {
+        "texto": "Únicamente tras quiebra del deudor",
+        "validez": false
+      },
+      {
+        "texto": "Solo con previa autorización judicial",
+        "validez": false
+      }
+    ],
+    "explicacion": "El beneficio de excusión se excluye expresamente en la fianza solidaria (art. 1590 CCyC)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Las medidas cautelares patrimoniales caducan si no se interpone la demanda dentro de:",
+    "respuestas": [
+      {
+        "texto": "Diez días",
+        "validez": false
+      },
+      {
+        "texto": "Veinte días",
+        "validez": false
+      },
+      {
+        "texto": "Treinta días",
+        "validez": true
+      },
+      {
+        "texto": "Sesenta días",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Código Procesal de Familia prevé caducidad ‘de pleno derecho’ a los 30 días si no se promueve la acción (ver art. corresp.)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El recurso contra medidas de protección por violencia familiar se concede:",
+    "respuestas": [
+      {
+        "texto": "Con efecto suspensivo",
+        "validez": false
+      },
+      {
+        "texto": "Sin efecto suspensivo",
+        "validez": true
+      },
+      {
+        "texto": "No es apelable",
+        "validez": false
+      },
+      {
+        "texto": "Solo por revocatoria",
+        "validez": false
+      }
+    ],
+    "explicacion": "Se busca mantener la tutela urgente; la apelación procede ‘sin efecto suspensivo’. fileciteturn1file14"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La competencia territorial para una demanda de alimentos corresponde, en principio, al domicilio:",
+    "respuestas": [
+      {
+        "texto": "Del alimentante",
+        "validez": false
+      },
+      {
+        "texto": "Del alimentado (acreedor alimentario)",
+        "validez": true
+      },
+      {
+        "texto": "Donde se celebró el acuerdo",
+        "validez": false
+      },
+      {
+        "texto": "Del juez que conoció un divorcio previo",
+        "validez": false
+      }
+    ],
+    "explicacion": "Se privilegia acceso a la justicia del acreedor alimentario (regla del foro actoris)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El juez puede adoptar medidas de oficio para proteger NNyA en virtud del principio de:",
+    "respuestas": [
+      {
+        "texto": "Contradicción",
+        "validez": false
+      },
+      {
+        "texto": "Oficiosidad",
+        "validez": true
+      },
+      {
+        "texto": "Eventualidad",
+        "validez": false
+      },
+      {
+        "texto": "Igualdad procesal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Código refuerza tutela judicial efectiva de sectores vulnerables permitiendo intervención oficiosa. fileciteturn1file17"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Las internaciones involuntarias de salud mental deben ser controladas judicialmente dentro de:",
+    "respuestas": [
+      {
+        "texto": "24 horas",
+        "validez": false
+      },
+      {
+        "texto": "48 horas",
+        "validez": true
+      },
+      {
+        "texto": "72 horas",
+        "validez": false
+      },
+      {
+        "texto": "Cinco días",
+        "validez": false
+      }
+    ],
+    "explicacion": "Se requiere control de legalidad célere para garantizar derechos fundamentales."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Los informes de idoneidad de aspirantes a adopción no pueden superar una antigüedad de:",
+    "respuestas": [
+      {
+        "texto": "Un año",
+        "validez": false
+      },
+      {
+        "texto": "Dos años",
+        "validez": true
+      },
+      {
+        "texto": "Tres años",
+        "validez": false
+      },
+      {
+        "texto": "Cinco años",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Registro Único de Aspirantes debe reevaluar informes con más de 2 años de antigüedad. fileciteturn1file13"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Para autorizar judicialmente la salida del país de un menor ante negativa de un progenitor se requiere:",
+    "respuestas": [
+      {
+        "texto": "Solo la firma digital del juez",
+        "validez": false
+      },
+      {
+        "texto": "Dictamen de equipo interdisciplinario y resolución fundada",
+        "validez": true
+      },
+      {
+        "texto": "Consentimiento del Ministerio de Relaciones Exteriores",
+        "validez": false
+      },
+      {
+        "texto": "Mayor de 14 años puede decidir por sí mismo",
+        "validez": false
+      }
+    ],
+    "explicacion": "El juez valora interés superior del niño con apoyo interdisciplinario antes de suplir el consentimiento. fileciteturn1file13"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El plazo genérico de los términos procesales en el procedimiento de familia es de:",
+    "respuestas": [
+      {
+        "texto": "Tres días",
+        "validez": false
+      },
+      {
+        "texto": "Cinco días",
+        "validez": true
+      },
+      {
+        "texto": "Diez días",
+        "validez": false
+      },
+      {
+        "texto": "Quince días",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Código fija plazo supletorio de 5 días salvo disposición especial. fileciteturn1file13"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La restitución internacional de NNyA puede ser denegada si:",
+    "respuestas": [
+      {
+        "texto": "Hay oposición de Cancillería",
+        "validez": false
+      },
+      {
+        "texto": "Es manifiestamente violatoria de los principios fundamentales del Estado requerido",
+        "validez": true
+      },
+      {
+        "texto": "El menor expresa deseo de quedarse",
+        "validez": false
+      },
+      {
+        "texto": "Pasaron más de 6 meses de la sustracción",
+        "validez": false
+      }
+    ],
+    "explicacion": "Se aplica excepción de orden público contemplada en convenios y el Código. fileciteturn1file13"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La apelación contra providencia que deniega una medida cautelar se concede:",
+    "respuestas": [
+      {
+        "texto": "Con efecto suspensivo",
+        "validez": false
+      },
+      {
+        "texto": "Sin efecto suspensivo",
+        "validez": true
+      },
+      {
+        "texto": "No procede en ningún caso",
+        "validez": false
+      },
+      {
+        "texto": "Solo ante la Corte provincial",
+        "validez": false
+      }
+    ],
+    "explicacion": "La regla es mantener la eficacia práctica de la tutela cautelar. fileciteturn1file2"
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La Corte Suprema de Justicia de Tucumán está integrada por:",
+    "respuestas": [
+      {
+        "texto": "Tres vocales",
+        "validez": false
+      },
+      {
+        "texto": "Cinco vocales",
+        "validez": true
+      },
+      {
+        "texto": "Siete vocales",
+        "validez": false
+      },
+      {
+        "texto": "Nueve vocales",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Ley 6238 fija cinco (5) vocales como número de integrantes de la Corte provincial."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Para ser juez de primera instancia en Tucumán se exige, entre otros requisitos, una antigüedad en la profesión de abogado de al menos:",
+    "respuestas": [
+      {
+        "texto": "Tres años",
+        "validez": false
+      },
+      {
+        "texto": "Cuatro años",
+        "validez": true
+      },
+      {
+        "texto": "Cinco años",
+        "validez": false
+      },
+      {
+        "texto": "Seis años",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Ley Orgánica prevé un mínimo de 4 años de ejercicio profesional para jueces letrados de primera instancia."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El Ministerio Pupilar y de la Defensa provincial se compone de:",
+    "respuestas": [
+      {
+        "texto": "Un Defensor General único",
+        "validez": false
+      },
+      {
+        "texto": "Un Ministro Pupilar y diversos defensores oficiales",
+        "validez": true
+      },
+      {
+        "texto": "Procuradores fiscales",
+        "validez": false
+      },
+      {
+        "texto": "El Presidente de la Corte",
+        "validez": false
+      }
+    ],
+    "explicacion": "La estructura diferencia Ministerio Público Fiscal y Ministerio Pupilar y de la Defensa a cargo de un Ministro respectivo."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La superintendencia de los tribunales inferiores corresponde a:",
+    "respuestas": [
+      {
+        "texto": "Colegio de Abogados",
+        "validez": false
+      },
+      {
+        "texto": "Corte Suprema de Tucumán",
+        "validez": true
+      },
+      {
+        "texto": "Consejo Deliberante",
+        "validez": false
+      },
+      {
+        "texto": "Ministerio de Justicia de la Nación",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Corte provincial ejerce potestad de superintendencia sobre todo el Poder Judicial local."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Para sesionar en Acuerdo, la Corte necesita un quórum mínimo de:",
+    "respuestas": [
+      {
+        "texto": "Dos vocales",
+        "validez": false
+      },
+      {
+        "texto": "Tres vocales",
+        "validez": true
+      },
+      {
+        "texto": "Cuatro vocales",
+        "validez": false
+      },
+      {
+        "texto": "La totalidad de sus miembros",
+        "validez": false
+      }
+    ],
+    "explicacion": "Con tres vocales presentes el Tribunal puede dictar resoluciones válidas, salvo materias especiales."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La Ley 25.506 define Firma Digital como:",
+    "respuestas": [
+      {
+        "texto": "Conjunto de datos biométricos de la persona",
+        "validez": false
+      },
+      {
+        "texto": "Conjunto de datos resultante de aplicar un criptosistema de clave pública que vincula al firmante con los datos firmados",
+        "validez": true
+      },
+      {
+        "texto": "Firma manuscrita escaneada",
+        "validez": false
+      },
+      {
+        "texto": "Imagen del DNI adjunta al documento",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 2 define la firma digital con base en criptografía de clave pública asegurando autoría e integridad."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Un certificado digital válido debe ser emitido por:",
+    "respuestas": [
+      {
+        "texto": "Un certificador licenciado por la Autoridad de Aplicación",
+        "validez": true
+      },
+      {
+        "texto": "Cualquier notario público",
+        "validez": false
+      },
+      {
+        "texto": "Un banco privado",
+        "validez": false
+      },
+      {
+        "texto": "La respectiva policía provincial",
+        "validez": false
+      }
+    ],
+    "explicacion": "Solo los certificadores licenciados e inscritos otorgan plena validez jurídica (arts. 1517)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Si un certificado ha sido revocado, la firma digital resultante pasa a tener valor de:",
+    "respuestas": [
+      {
+        "texto": "Presunción de autoría irrebatible",
+        "validez": false
+      },
+      {
+        "texto": "Firma electrónica simple sin presunción legal",
+        "validez": true
+      },
+      {
+        "texto": "Documento nulo de pleno derecho",
+        "validez": false
+      },
+      {
+        "texto": "Documento notarial",
+        "validez": false
+      }
+    ],
+    "explicacion": "La ley solo concede presunciones cuando la verificación es exitosa con certificado vigente (art. 7)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La Autoridad de Aplicación de la Ley 25.506 es actualmente:",
+    "respuestas": [
+      {
+        "texto": "ANSES",
+        "validez": false
+      },
+      {
+        "texto": "La Oficina Nacional de Tecnologías de la Información (ONTI) o su sucesora",
+        "validez": true
+      },
+      {
+        "texto": "AFIP",
+        "validez": false
+      },
+      {
+        "texto": "Ministerio de Defensa",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Decreto reglamentario delega en la ONTI (ahora Subsecretaría Innovación Público Digital) la autoridad de aplicación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La presunción de integridad y autoría de la firma digital:",
+    "respuestas": [
+      {
+        "texto": "No admite prueba en contrario",
+        "validez": false
+      },
+      {
+        "texto": "Admite prueba en contrario",
+        "validez": true
+      },
+      {
+        "texto": "Es irrevocable",
+        "validez": false
+      },
+      {
+        "texto": "Solo vale en contratos bancarios",
+        "validez": false
+      }
+    ],
+    "explicacion": "El art. 7 establece presunciones iuris tantum (admiten prueba contraria)."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En el nuevo CPP Tucumán, la derivación a mediación penal procede principalmente en delitos:",
+    "respuestas": [
+      {
+        "texto": "Con pena mayor de seis años",
+        "validez": false
+      },
+      {
+        "texto": "Contra la administración pública",
+        "validez": false
+      },
+      {
+        "texto": "De menor lesividad como lesiones leves o amenazas",
+        "validez": true
+      },
+      {
+        "texto": "De homicidio doloso",
+        "validez": false
+      }
+    ],
+    "explicacion": "La ley prioriza métodos alternativos en delitos de baja entidad, con consentimiento de víctima e imputado."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "El criterio de oportunidad basado en ‘pena natural’ se aplica cuando:",
+    "respuestas": [
+      {
+        "texto": "La pena mínima prevista es inferior a un año",
+        "validez": false
+      },
+      {
+        "texto": "El propio resultado del hecho ocasiona al autor un sufrimiento equivalente a la pena",
+        "validez": true
+      },
+      {
+        "texto": "El imputado supera 70 años",
+        "validez": false
+      },
+      {
+        "texto": "El perjuicio patrimonial es ínfimo",
+        "validez": false
+      }
+    ],
+    "explicacion": "La ‘pena natural’ exime de la acción penal cuando el daño sufrido por el autor torna innecesaria la intervención estatal."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "La suspensión de juicio a prueba (probation) requiere que el imputado:",
+    "respuestas": [
+      {
+        "texto": "Sea condenado y reconozca culpa",
+        "validez": false
+      },
+      {
+        "texto": "Acepte reglas de conducta y, en su caso, reparación del daño",
+        "validez": true
+      },
+      {
+        "texto": "Sea absuelto definitivamente",
+        "validez": false
+      },
+      {
+        "texto": "Done un monto fijo al Estado sin condiciones",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 76 bis CP: el juez puede conceder probation imponiendo reglas de conducta y reparación a la víctima."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Los certificados digitales extranjeros pueden ser válidos en Argentina si:",
+    "respuestas": [
+      {
+        "texto": "Existe reconocimiento de reciprocidad por la Autoridad de Aplicación",
+        "validez": true
+      },
+      {
+        "texto": "Son más económicos",
+        "validez": false
+      },
+      {
+        "texto": "El firmante reside fuera del país",
+        "validez": false
+      },
+      {
+        "texto": "La empresa emisora es multinacional",
+        "validez": false
+      }
+    ],
+    "explicacion": "Art. 21 prevé reconocimiento de certificados extranjeros mediante acuerdos de reciprocidad y evaluación técnica."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según la Corte Suprema argentina, la pena de prisión perpetua es:",
+    "respuestas": [
+      {
+        "texto": "Siempre inconstitucional",
+        "validez": false
+      },
+      {
+        "texto": "Nunca admitida por el ordenamiento",
+        "validez": false
+      },
+      {
+        "texto": "Constitucional, siempre que se prevean mecanismos de revisión y libertad condicional",
+        "validez": true
+      },
+      {
+        "texto": "Competencia exclusiva de las provincias",
+        "validez": false
+      }
+    ],
+    "explicacion": "Doctrina ‘Zárate, Enrique’ y fallos posteriores: la pena es válida si respeta proporcionalidad y acceso a libertad condicional."
+  }
+]

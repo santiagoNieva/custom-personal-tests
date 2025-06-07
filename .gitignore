@@ -26,3 +26,38 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+# 1) Cuenta de servicio (credenciales privadas)
+# Evita subir tu JSON de serviceAccountKey.json
+/scripts/serviceAccountKey.json
+
+# 2) Node modules (no versionamos dependencias)
+/scripts/node_modules/
+
+# 3) Logs de Firebase CLI
+firebase-debug.log*
+.firebase-debug.log*
+
+# 4) Archivos de entorno (si usas .env para otras cosas)
+.env
+.env.* 
+
+# 5) Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# 6) Firebase local emulator
+/.firebase/
+/.emulator-ui/
+
+# 7) Build outputs (si más adelante generas dist)
+/dist/
+/build/
+
+# ←———————————————  
+# Opcional: package-lock.json
+# -----------------------------------
+# En general se recomienda *versionar* el package-lock.json
+# para fijar las versiones de tus dependencias y asegurar reproducibilidad.
+# Si prefieres no hacerlo, descomenta la línea de abajo:
+# /scripts/package-lock.json
