@@ -1,6 +1,6 @@
 // docs/main.js
 import { loginWithGoogle, onAuthChange, auth } from "./firebase.js";
-import { fetch55, saveProgress, getProgress } from "./dataService.js";
+import { fetchRandomN, saveProgress, getProgress } from "./dataService.js";
 import { renderQuestionCard } from "./ui/QuestionCard.js";
 import { showResultsModal } from "./ui/ResultModal.js";
 
