@@ -10,6 +10,7 @@ const userStatus = document.getElementById("userStatus");
 const selectors = document.getElementById("selectors");
 const proyectoSelect = document.getElementById("proyecto");
 const categoriaSelect = document.getElementById("categoria");
+const numInput = document.getElementById("numPreguntas");
 const cargarBtn = document.getElementById("cargarPreguntasBtn");
 const quizContainer = document.getElementById("quizContainer");
 const resultsModal = document.getElementById("resultsModal");
