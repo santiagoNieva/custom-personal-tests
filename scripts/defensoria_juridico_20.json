@@ -1,0 +1,502 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es la función principal de la Defensoría Pupilar en un proceso penal que involucra a menores de edad?",
+    "respuestas": [
+      {
+        "texto": "Representar y proteger los intereses del menor",
+        "validez": true
+      },
+      {
+        "texto": "Intervenir únicamente como observador",
+        "validez": false
+      },
+      {
+        "texto": "Sustituir al juez en la toma de decisiones",
+        "validez": false
+      },
+      {
+        "texto": "Emitir dictámenes vinculantes",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Defensoría Pupilar tiene a su cargo la representación y protección de los derechos e intereses de los menores en el proceso penal."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el artículo 19 del Código Procesal Penal de Tucumán, ¿en qué plazo debe designarse el defensor oficial al imputado sin defensor particular?",
+    "respuestas": [
+      {
+        "texto": "Dentro de las 24 horas siguientes",
+        "validez": true
+      },
+      {
+        "texto": "En la primera audiencia que se celebre",
+        "validez": false
+      },
+      {
+        "texto": "Dentro de las 72 horas siguientes",
+        "validez": false
+      },
+      {
+        "texto": "En un plazo de 5 días hábiles",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 19 dispone que el defensor oficial debe ser nombrado en un plazo de 24 horas desde que se advierta la ausencia de defensor particular."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "De acuerdo con el artículo 162 del Código Procesal Penal de la Nación, si el imputado no designa defensor, el tribunal debe:",
+    "respuestas": [
+      {
+        "texto": "Nombrar inmediatamente un defensor de oficio",
+        "validez": true
+      },
+      {
+        "texto": "Suspender el proceso hasta que contrate abogado",
+        "validez": false
+      },
+      {
+        "texto": "Permitir al imputado continuar sin defensa",
+        "validez": false
+      },
+      {
+        "texto": "Remitir el caso a la defensoría pupilar",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 162 establece que el tribunal debe nombrar inmediatamente un defensor de oficio si no hay defensor designado."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "Según la Ley 26.061 (Protección Integral de Niños, Niñas y Adolescentes), en ausencia de tutor legal, ¿quién representa al menor en un proceso judicial?",
+    "respuestas": [
+      {
+        "texto": "La Defensoría Pupilar",
+        "validez": true
+      },
+      {
+        "texto": "El Ministerio Público Fiscal",
+        "validez": false
+      },
+      {
+        "texto": "El juez de Familia",
+        "validez": false
+      },
+      {
+        "texto": "El representante legal del demandante",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Ley 26.061 establece que la Defensoría Pupilar representa al menor si no existe tutor o curador."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "En el Código Penal Argentino, ¿qué artículo tipifica el homicidio simple, donde la defensa penal repudia la agravante de alevosía?",
+    "respuestas": [
+      {
+        "texto": "Artículo 164",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 150",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 155",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 170",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 164 del Código Penal Argentino establece la figura de homicidio simple."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el límite máximo de detención preventiva sin sentencia según el Código Procesal Penal de Tucumán para delitos excarcelables?",
+    "respuestas": [
+      {
+        "texto": "3 meses",
+        "validez": false
+      },
+      {
+        "texto": "6 meses",
+        "validez": true
+      },
+      {
+        "texto": "1 año",
+        "validez": false
+      },
+      {
+        "texto": "24 horas",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Código Procesal Penal de Tucumán establece un plazo máximo de seis meses de detención preventiva para delitos excarcelables."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el artículo 150 del Código Penal Argentino, ¿qué circunstancia atenúa la responsabilidad penal?",
+    "respuestas": [
+      {
+        "texto": "La minoridad del imputado (menor de 18 años)",
+        "validez": true
+      },
+      {
+        "texto": "El carácter público del delito",
+        "validez": false
+      },
+      {
+        "texto": "La reincidencia",
+        "validez": false
+      },
+      {
+        "texto": "La premeditación",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 150 contempla como atenuante la minoridad del imputado."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "En un procedimiento por incapacidad mental, ¿qué rol cumple la Defensoría de Familia?",
+    "respuestas": [
+      {
+        "texto": "Asistir al presunto incapaz y representar su interés",
+        "validez": true
+      },
+      {
+        "texto": "Emitir la sentencia final",
+        "validez": false
+      },
+      {
+        "texto": "Nombrar al curador judicial",
+        "validez": false
+      },
+      {
+        "texto": "Fiscalizar la ejecución de la medida",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Defensoría de Familia asiste al presunto incapaz y vela por su interés en procesos de declaración de incapacidad."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué plazo máximo establece el artículo 19 del CPPT de Tucumán para la audiencia de control de detención?",
+    "respuestas": [
+      {
+        "texto": "48 horas",
+        "validez": true
+      },
+      {
+        "texto": "72 horas",
+        "validez": false
+      },
+      {
+        "texto": "24 horas",
+        "validez": false
+      },
+      {
+        "texto": "7 días hábiles",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 19 del CPPT de Tucumán fija en 48 horas el plazo para la audiencia de control de detención."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "Según el artículo 165 del Código Penal Argentino, ¿qué pena mínima corresponde a homicidio simple?",
+    "respuestas": [
+      {
+        "texto": "1 año de prisión",
+        "validez": false
+      },
+      {
+        "texto": "8 años de prisión",
+        "validez": true
+      },
+      {
+        "texto": "25 años de prisión",
+        "validez": false
+      },
+      {
+        "texto": "5 años de prisión",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 165 establece para el homicidio simple una pena mínima de 8 años de prisión."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿En qué casos el defensor de oficio puede solicitar medidas de protección urgentes según el CPPT de Tucumán?",
+    "respuestas": [
+      {
+        "texto": "Cuando existan riesgos para la integridad física del imputado",
+        "validez": true
+      },
+      {
+        "texto": "Al inicio del proceso sin justificación",
+        "validez": false
+      },
+      {
+        "texto": "Solo después de sentencia definitiva",
+        "validez": false
+      },
+      {
+        "texto": "Solamente en delitos económicos",
+        "validez": false
+      }
+    ],
+    "explicacion": "El defensor de oficio puede solicitar medidas urgentes si existe riesgo para la integridad física o psicológica del imputado."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el principio de legalidad en materia penal?",
+    "respuestas": [
+      {
+        "texto": "No hay delito ni pena sin ley previa",
+        "validez": true
+      },
+      {
+        "texto": "El juez decide según su conciencia",
+        "validez": false
+      },
+      {
+        "texto": "Se puede aplicar ley retroactiva",
+        "validez": false
+      },
+      {
+        "texto": "La pena es arbitraria",
+        "validez": false
+      }
+    ],
+    "explicacion": "El principio de legalidad establece que no hay delito ni pena sin una ley previa que lo establezca."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el artículo 23 del CPPT de Tucumán, la Defensoría tiene acceso a los expedientes en un plazo máximo de:",
+    "respuestas": [
+      {
+        "texto": "24 horas",
+        "validez": false
+      },
+      {
+        "texto": "48 horas",
+        "validez": true
+      },
+      {
+        "texto": "72 horas",
+        "validez": false
+      },
+      {
+        "texto": "5 días hábiles",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 23 fija en 48 horas el plazo para que la Defensoría acceda a los expedientes."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Qué artículo del Código Procesal Penal de la Nación regula el juicio abreviado donde interviene el defensor oficial?",
+    "respuestas": [
+      {
+        "texto": "Artículo 387",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 352",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 400",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 310",
+        "validez": false
+      }
+    ],
+    "explicacion": "El juicio abreviado está regulado en el artículo 387 del CPP de la Nación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué instancia revisa las medidas limitativas de libertad dictadas en primera instancia en Tucumán?",
+    "respuestas": [
+      {
+        "texto": "La Cámara de Apelaciones",
+        "validez": true
+      },
+      {
+        "texto": "La Corte Suprema de Justicia",
+        "validez": false
+      },
+      {
+        "texto": "El Juzgado de Paz",
+        "validez": false
+      },
+      {
+        "texto": "La Fiscalía de Estado",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Cámara de Apelaciones es la encargada de revisar las medidas limitativas de libertad en Tucumán."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "El silencio del defensor oficial ante requerimientos de pruebas periciales viola el derecho a defensa garantizado por cuál artículo de la Constitución Provincial de Tucumán?",
+    "respuestas": [
+      {
+        "texto": "Artículo 18",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 23",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 25",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 28",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 23 garantiza el derecho a defensa y debido proceso en la Constitución Provincial de Tucumán."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué principio pro persona aplica la Defensoría cuando hay dudas sobre la aplicación de una norma penal?",
+    "respuestas": [
+      {
+        "texto": "In dubio pro reo",
+        "validez": true
+      },
+      {
+        "texto": "In dubio pro societate",
+        "validez": false
+      },
+      {
+        "texto": "Nulla poena sine lege",
+        "validez": false
+      },
+      {
+        "texto": "Lex posterior derogat priori",
+        "validez": false
+      }
+    ],
+    "explicacion": "El principio 'in dubio pro reo' favorece al imputado ante duda, principio que aplica la Defensoría."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué significa el principio de inmediación en el proceso penal?",
+    "respuestas": [
+      {
+        "texto": "El juez debe estar presente en la práctica de pruebas",
+        "validez": true
+      },
+      {
+        "texto": "El defensor decide sin audiencia",
+        "validez": false
+      },
+      {
+        "texto": "La defensa no puede presentar evidencias",
+        "validez": false
+      },
+      {
+        "texto": "Solo el Ministerio Público está presente",
+        "validez": false
+      }
+    ],
+    "explicacion": "El principio de inmediación exige que el juez esté presente en la producción de pruebas para valorar su autenticidad."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En procesos penales, ¿qué ley nacional regula la defensa y asistencia de personas con discapacidad mental?",
+    "respuestas": [
+      {
+        "texto": "Ley 26.657 (Salud Mental)",
+        "validez": true
+      },
+      {
+        "texto": "Ley 26.061 (Protección Integral de la Niñez)",
+        "validez": false
+      },
+      {
+        "texto": "Ley 24.766 (Protección de Datos)",
+        "validez": false
+      },
+      {
+        "texto": "Ley 25.506 (Firma Digital)",
+        "validez": false
+      }
+    ],
+    "explicacion": "La Ley 26.657 regula la protección y asistencia de personas con padecimientos de salud mental en todos los ámbitos, incluido el penal."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según la Ley Orgánica de Tribunales N° 6238, ¿qué artículo dispone la intervención de la Defensoría en procesos de declaración de incapacidad?",
+    "respuestas": [
+      {
+        "texto": "Artículo 8",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 12",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 14",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 22",
+        "validez": false
+      }
+    ],
+    "explicacion": "El artículo 8 de la Ley 6238 establece la intervención de la Defensoría en procesos de incapacidad."
+  }
+]

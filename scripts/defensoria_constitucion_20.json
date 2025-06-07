@@ -1,0 +1,452 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo de la Constitución Nacional garantiza el derecho a un proceso con todas las garantías judiciales?",
+    "respuestas": [
+      {
+        "texto": "Artículo 18",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 14",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 33",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 75",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 18 establece que nadie puede ser privado de su libertad sino en virtud de sentencia fundada en ley anterior al hecho del proceso."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "Según la Constitución Nacional, ¿quién tiene el derecho de recurrir en defensa propia ante los tribunales?",
+    "respuestas": [
+      {
+        "texto": "Toda persona",
+        "validez": true
+      },
+      {
+        "texto": "Solo ciudadanos nativos",
+        "validez": false
+      },
+      {
+        "texto": "Solo abogados graduados",
+        "validez": false
+      },
+      {
+        "texto": "Solo personas mayores de 21 años",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 18 reconoce el derecho de defenderse por sí mismos o por apoderado o defensor públicamente nombrado."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo consagra que los tratados de derechos humanos tienen jerarquía constitucional?",
+    "respuestas": [
+      {
+        "texto": "Artículo 75 inciso 22",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 116",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 14 bis",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 33",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 75 inc. 22 otorga rango constitucional a los tratados internacionales de derechos humanos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué precepto constitucional prohíbe la pena de muerte, salvo en caso de guerra externa?",
+    "respuestas": [
+      {
+        "texto": "Artículo 18",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 28",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 5",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 75",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 18 establece la prohibición de la pena de muerte, excepto en caso de guerra exterior declarada."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo establece la inviolabilidad de la correspondencia y comunicaciones privadas?",
+    "respuestas": [
+      {
+        "texto": "Artículo 19",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 20",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 21",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 14 bis",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 19 garantiza que las acciones privadas de los hombres no pueden ser objeto de investigación sin orden judicial fundada en ley."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "Según el Artículo 17, ¿qué restrictivo requisito establece para la prisión preventiva?",
+    "respuestas": [
+      {
+        "texto": "Debe estar fundada y limitada por la ley",
+        "validez": true
+      },
+      {
+        "texto": "Puede ser indefinida si el fiscal lo decide",
+        "validez": false
+      },
+      {
+        "texto": "No requiere fundamentación judicial",
+        "validez": false
+      },
+      {
+        "texto": "Solo procede en delitos graves",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 17 dispone que la prisión preventiva solo puede ordenarse en los casos y formas establecidos por la ley y con fundamentación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el alcance del derecho de petición según el Artículo 14?",
+    "respuestas": [
+      {
+        "texto": "Solicitar a las autoridades todo tipo de información y amparo",
+        "validez": true
+      },
+      {
+        "texto": "Solo peticiones de carácter administrativo",
+        "validez": false
+      },
+      {
+        "texto": "Solo peticiones colectivas",
+        "validez": false
+      },
+      {
+        "texto": "Petición sin respuesta obligatoria",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 14 reconoce el derecho de petición, con responsabilidad por abuso legislativo o judicial."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo consagra la igualdad ante la ley sin distinción de nacimientos o condiciones?",
+    "respuestas": [
+      {
+        "texto": "Artículo 16",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 15",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 18",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 14",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 16 garantiza que todos los habitantes son iguales ante la ley."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿En qué artículo la Constitución reconoce el habeas corpus?",
+    "respuestas": [
+      {
+        "texto": "Artículo 43",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 28",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 32",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 38",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 43 incorpora el recurso de habeas corpus para proteger la libertad individual."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "Según el Artículo 75 inciso 12, ¿qué facultad le otorga al Congreso?",
+    "respuestas": [
+      {
+        "texto": "Interpretar la Constitución y dictar códigos nacionales",
+        "validez": true
+      },
+      {
+        "texto": "Nombrar miembros de la Corte Suprema",
+        "validez": false
+      },
+      {
+        "texto": "Modificar constituciones provinciales",
+        "validez": false
+      },
+      {
+        "texto": "Designar defensores oficiales",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 75 inc. 12 habilita al Congreso a dictar códigos civil y penal y a interpretar la Constitución."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo prohíbe los fueros militares en tiempo de paz?",
+    "respuestas": [
+      {
+        "texto": "Artículo 17",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 75 inciso 14",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 33",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 18",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 75 inc. 14 impide la existencia de fueros especiales salvo en tiempo de guerra externa declarada."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el Artículo 75 inciso 17, ¿qué competencia asigna al Congreso respecto al trabajo?",
+    "respuestas": [
+      {
+        "texto": "Legislar sobre beneficios de la seguridad social",
+        "validez": true
+      },
+      {
+        "texto": "Fijar salarios mínimos provinciales",
+        "validez": false
+      },
+      {
+        "texto": "Gestionar sindicatos",
+        "validez": false
+      },
+      {
+        "texto": "Controlar sindicatos",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 75 inc. 17 faculta al Congreso para establecer normas sobre seguridad social."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo establece la libertad de culto y conciencia?",
+    "respuestas": [
+      {
+        "texto": "Artículo 19",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 20",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 14",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 18",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 20 consagra la inviolabilidad de la libertad de culto y conciencia."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el artículo que regula la autonomía de las provincias?",
+    "respuestas": [
+      {
+        "texto": "Artículo 5",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 10",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 15",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 17",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 5 reconoce el carácter libre y soberano de las provincias dentro de la Constitución."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "En el Artículo 28, ¿qué limita la aplicación retroactiva de las leyes?",
+    "respuestas": [
+      {
+        "texto": "Ninguna ley podrá restringir derechos adquiridos",
+        "validez": true
+      },
+      {
+        "texto": "Solo las leyes penales",
+        "validez": false
+      },
+      {
+        "texto": "Las leyes fiscales",
+        "validez": false
+      },
+      {
+        "texto": "Todas las leyes",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 28 prohíbe aplicar retroactivamente leyes que restrinjan derechos adquiridos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo prohíbe la esclavitud y servidumbre?",
+    "respuestas": [
+      {
+        "texto": "Artículo 17",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 14 bis",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 16",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 18",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 17 prohíbe la esclavitud en todas sus formas."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué artículo garantiza el derecho de defensa en juicio?",
+    "respuestas": [
+      {
+        "texto": "Artículo 18",
+        "validez": true
+      },
+      {
+        "texto": "Artículo 19",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 20",
+        "validez": false
+      },
+      {
+        "texto": "Artículo 21",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 18 reconoce expreso el derecho de defensa en juicio."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es la jerarquía de la Constitución Nacional según el Artículo 31?",
+    "respuestas": [
+      {
+        "texto": "Suprema ley de la Nación",
+        "validez": true
+      },
+      {
+        "texto": "Igual a leyes nacionales",
+        "validez": false
+      },
+      {
+        "texto": "Inferior a tratados",
+        "validez": false
+      },
+      {
+        "texto": "Inferior a leyes provinciales",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 31 establece la Constitución como norma suprema y los tratados internacionales como equivalentes a leyes nacionales."
+  }
+]

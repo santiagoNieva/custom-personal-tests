@@ -1,0 +1,377 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué principio procesal garantiza que las audiencias sean públicas y orales según el CPP de Tucumán?",
+    "respuestas": [
+      {
+        "texto": "Principio de oralidad",
+        "validez": true
+      },
+      {
+        "texto": "Principio de escrita",
+        "validez": false
+      },
+      {
+        "texto": "Principio de confidencialidad",
+        "validez": false
+      },
+      {
+        "texto": "Principio de economía procesal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El CPP de Tucumán establece el principio de oralidad para audiencias públicas."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es el plazo para la finalización de la investigación preparatoria según el Art. 27?",
+    "respuestas": [
+      {
+        "texto": "6 meses",
+        "validez": true
+      },
+      {
+        "texto": "3 meses",
+        "validez": false
+      },
+      {
+        "texto": "12 meses",
+        "validez": false
+      },
+      {
+        "texto": "24 horas",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 27 fija en seis meses el plazo para clausurar la investigación preparatoria."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 23, ¿quién controla la legalidad de la detención preventiva?",
+    "respuestas": [
+      {
+        "texto": "El juez de garantías",
+        "validez": true
+      },
+      {
+        "texto": "El fiscal de cámara",
+        "validez": false
+      },
+      {
+        "texto": "El defensor oficial",
+        "validez": false
+      },
+      {
+        "texto": "El juez de paz",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 23 atribuye al juez de garantías esa función."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué requisito exige el Art. 35 para la admisión de prueba anticipada?",
+    "respuestas": [
+      {
+        "texto": "Peligro de pérdida de la prueba",
+        "validez": true
+      },
+      {
+        "texto": "Consentimiento de las partes",
+        "validez": false
+      },
+      {
+        "texto": "Orden fiscal",
+        "validez": false
+      },
+      {
+        "texto": "Acuerdo judicial",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 35 prevé la prueba anticipada ante riesgo de pérdida."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el mecanismo del Art. 45 para ordenar pruebas de oficio?",
+    "respuestas": [
+      {
+        "texto": "Resolución judicial debidamente fundada",
+        "validez": true
+      },
+      {
+        "texto": "Solicitud de la víctima",
+        "validez": false
+      },
+      {
+        "texto": "Directiva del fiscal",
+        "validez": false
+      },
+      {
+        "texto": "Acuerdo de partes",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 45 habilita al juez a ordenar pruebas de oficio con motivación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo regula videoconferencias en audiencias?",
+    "respuestas": [
+      {
+        "texto": "Art. 145 bis",
+        "validez": true
+      },
+      {
+        "texto": "Art. 140",
+        "validez": false
+      },
+      {
+        "texto": "Art. 155",
+        "validez": false
+      },
+      {
+        "texto": "Art. 150",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 145 bis introduce la oralidad a distancia."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 90, el embargo preventivo procede si:",
+    "respuestas": [
+      {
+        "texto": "Riesgo de ocultación de bienes",
+        "validez": true
+      },
+      {
+        "texto": "Solicita el imputado",
+        "validez": false
+      },
+      {
+        "texto": "Orden fiscal genérica",
+        "validez": false
+      },
+      {
+        "texto": "Acuerdo defensor-fiscal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 90 asegura bienes ante posible condena."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Qué establece el Art. 115 sobre nulidad por falta de motivación?",
+    "respuestas": [
+      {
+        "texto": "Anula actos carentes de fundamentación",
+        "validez": true
+      },
+      {
+        "texto": "Mantiene actos tácitos",
+        "validez": false
+      },
+      {
+        "texto": "Suspende el proceso",
+        "validez": false
+      },
+      {
+        "texto": "Remite a otro juez",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 115 declara nulos los actos sin motivación suficiente."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué plazo fija el Art. 80 para la acusación?",
+    "respuestas": [
+      {
+        "texto": "15 días",
+        "validez": true
+      },
+      {
+        "texto": "5 días",
+        "validez": false
+      },
+      {
+        "texto": "30 días",
+        "validez": false
+      },
+      {
+        "texto": "10 días",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 80 dispone quince días para presentar la acusación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué artículo regula la audiencia de formulación de cargos?",
+    "respuestas": [
+      {
+        "texto": "Art. 70",
+        "validez": true
+      },
+      {
+        "texto": "Art. 60",
+        "validez": false
+      },
+      {
+        "texto": "Art. 50",
+        "validez": false
+      },
+      {
+        "texto": "Art. 40",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 70 establece la audiencia de cargos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "¿Cuál es el criterio de reevaluación cautelar según Art. 125?",
+    "respuestas": [
+      {
+        "texto": "Cambio sustancial en riesgos procesales",
+        "validez": true
+      },
+      {
+        "texto": "Solicitud del defensor",
+        "validez": false
+      },
+      {
+        "texto": "Decisión fiscal",
+        "validez": false
+      },
+      {
+        "texto": "Voto de mayoría de jueces",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 125 permite revisar cautelares ante nuevos riesgos probados."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "Según el Art. 105, ¿quién decide la apertura del juicio oral?",
+    "respuestas": [
+      {
+        "texto": "Cámara de Apelaciones",
+        "validez": true
+      },
+      {
+        "texto": "Juez de paz",
+        "validez": false
+      },
+      {
+        "texto": "Fiscal general",
+        "validez": false
+      },
+      {
+        "texto": "Defensoría",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 105 asigna esa decisión a la Cámara de Apelaciones."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "facil",
+    "pregunta": "¿Qué principio promueve el Art. 120?",
+    "respuestas": [
+      {
+        "texto": "Economía procesal",
+        "validez": true
+      },
+      {
+        "texto": "Contradictorio",
+        "validez": false
+      },
+      {
+        "texto": "Publicidad",
+        "validez": false
+      },
+      {
+        "texto": "Inmediación",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 120 busca agilizar el proceso mediante concentración de actos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué recurso extraordinario prevé el Art. 130?",
+    "respuestas": [
+      {
+        "texto": "Casación",
+        "validez": true
+      },
+      {
+        "texto": "Apelación",
+        "validez": false
+      },
+      {
+        "texto": "Queja",
+        "validez": false
+      },
+      {
+        "texto": "Revisión",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 130 introduce el recurso de casación."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "jurídico",
+    "dificultad": "dificil",
+    "pregunta": "Según el Art. 160 bis, ¿quién autoriza intervenciones telefónicas?",
+    "respuestas": [
+      {
+        "texto": "Juez de Garantías",
+        "validez": true
+      },
+      {
+        "texto": "Fiscal general",
+        "validez": false
+      },
+      {
+        "texto": "Juez de Paz",
+        "validez": false
+      },
+      {
+        "texto": "Ministerio Público",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 160 bis reserva esa autorización al Juez de Garantías."
+  }
+]

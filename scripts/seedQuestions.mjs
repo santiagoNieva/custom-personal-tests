@@ -11,7 +11,7 @@ const db = admin.firestore();
 
 async function main() {
     // 2) Lee el JSON
-    const data = await fs.readFile(path.resolve(".", "ortografia_manual_sae_ortografia.json"), "utf8");
+    const data = await fs.readFile(path.resolve(".", "defensoria_constitucion_20.json"), "utf8");
     const preguntas = JSON.parse(data);
 
     // 3) Prepara un batch
