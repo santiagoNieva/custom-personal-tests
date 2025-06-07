@@ -1,0 +1,302 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "Según el Art. 14, ¿quiénes componen la Comisión de Disciplina Judicial?",
+    "respuestas": [
+      {
+        "texto": "El Presidente de la Corte y dos Vocales designados por sorteo",
+        "validez": false
+      },
+      {
+        "texto": "Tres Vocales elegidos por la Corte",
+        "validez": true
+      },
+      {
+        "texto": "El Gobernador y dos representantes legislativos",
+        "validez": false
+      },
+      {
+        "texto": "El Fiscal General y el Defensor General",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Artículo 14 establece que la Comisión de Disciplina Judicial se integra por tres Vocales elegidos por la propia Corte."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "En el Art. 14 bis, ¿qué mayoría se requiere para imponer sanciones disciplinarias?",
+    "respuestas": [
+      {
+        "texto": "Mayoría simple de la Comisión",
+        "validez": false
+      },
+      {
+        "texto": "Unanimidad de la Comisión",
+        "validez": false
+      },
+      {
+        "texto": "Mayoría absoluta de la Comisión",
+        "validez": true
+      },
+      {
+        "texto": "Dos tercios de la Corte Suprema",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 14 bis dispone que se requiere mayoría absoluta de la Comisión de Disciplina para sancionar."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "¿Qué establece el Art. 15 ter sobre la recusación de Vocales?",
+    "respuestas": [
+      {
+        "texto": "Solo procede por parentesco hasta segundo grado",
+        "validez": false
+      },
+      {
+        "texto": "Procede por cualquier causa de animadversión",
+        "validez": true
+      },
+      {
+        "texto": "No es posible recusar Vocales",
+        "validez": false
+      },
+      {
+        "texto": "Solo por decisión unánime de la Cámara",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 15 ter señala que la recusación procede por cualquier causa que demuestre animadversión debidamente probada."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "Según el Art. 16 quinquies, ¿cuál es la duración del ejercicio del cargo de Defensor Oficial?",
+    "respuestas": [
+      {
+        "texto": "4 años, con posibilidad de renovación",
+        "validez": true
+      },
+      {
+        "texto": "5 años, sin reelección",
+        "validez": false
+      },
+      {
+        "texto": "6 años, con reelección automática",
+        "validez": false
+      },
+      {
+        "texto": "Duración indefinida hasta los 65 años",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 16 quinquies establece que el Defensor Oficial ejerce su cargo por 4 años, renovable."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "¿Qué requisito adicional impone el Art. 17 bis para jefes de Secretaría?",
+    "respuestas": [
+      {
+        "texto": "Ser abogado con 10 años de antigüedad",
+        "validez": false
+      },
+      {
+        "texto": "Aprobar un concurso interno de antecedentes y oposición",
+        "validez": true
+      },
+      {
+        "texto": "Certificación de no tener sanciones disciplinarias",
+        "validez": false
+      },
+      {
+        "texto": "Tener grado de doctorado en Derecho",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 17 bis exige que los jefes de Secretaría pasen un concurso interno de antecedentes y oposición."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "De acuerdo al Art. 18 bis, ¿qué órgano aprueba el presupuesto de la Corte Suprema?",
+    "respuestas": [
+      {
+        "texto": "La Legislatura Provincial",
+        "validez": true
+      },
+      {
+        "texto": "El Gobernador",
+        "validez": false
+      },
+      {
+        "texto": "El Consejo de la Magistratura",
+        "validez": false
+      },
+      {
+        "texto": "El Ministerio de Hacienda",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 18 bis especifica que la Legislatura Provincial aprueba el presupuesto de la Corte."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "¿Qué competencia exclusiva atribuye el Art. 19 bis a la Cámara en lo Civil en Documentos y Locaciones?",
+    "respuestas": [
+      {
+        "texto": "Juicio de desalojo de inmuebles",
+        "validez": true
+      },
+      {
+        "texto": "Juicio de alimentos",
+        "validez": false
+      },
+      {
+        "texto": "Contestación de amparos",
+        "validez": false
+      },
+      {
+        "texto": "Recursos de casación penal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 19 bis consagra que dicha Cámara conoce en forma exclusiva de los juicios de desalojo de inmuebles."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "Según el Art. 20 bis, ¿cuál es el quórum para sesionar válidamente en el Tribunal de Apelaciones Contencioso Administrativo?",
+    "respuestas": [
+      {
+        "texto": "Dos miembros",
+        "validez": false
+      },
+      {
+        "texto": "Tres miembros sobre cuatro",
+        "validez": true
+      },
+      {
+        "texto": "Mayoría absoluta de todos los Vocales",
+        "validez": false
+      },
+      {
+        "texto": "Unanimidad de los presentes",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 20 bis establece quórum de tres miembros de un total de cuatro para sesionar válidamente."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "¿Cómo define el Art. 21 bis la figura del 'Secretario Actuario'?",
+    "respuestas": [
+      {
+        "texto": "Funcionario que asiste a la Dirección de Estadísticas",
+        "validez": false
+      },
+      {
+        "texto": "Funcionario que redacta y certifica los actas de los tribunales",
+        "validez": true
+      },
+      {
+        "texto": "Funcionario encargado de la custodia de expedientes",
+        "validez": false
+      },
+      {
+        "texto": "Funcionario a cargo de nómina de personal",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 21 bis señala que el Secretario Actuario es quien redacta y certifica las actas de los tribunales."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "El Art. 22 establece que la duración del período ordinario de sesiones de la Corte es de:",
+    "respuestas": [
+      {
+        "texto": "12 meses continuos",
+        "validez": false
+      },
+      {
+        "texto": "10 meses al año",
+        "validez": true
+      },
+      {
+        "texto": "8 meses escolares",
+        "validez": false
+      },
+      {
+        "texto": "6 meses al año",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 22 fija el período ordinario de sesiones en diez meses al año."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "Según el Art. 23, el Tribunal de Impugnación cuenta con ____ Departamentos.",
+    "respuestas": [
+      {
+        "texto": "2 Departamentos",
+        "validez": false
+      },
+      {
+        "texto": "3 Departamentos",
+        "validez": true
+      },
+      {
+        "texto": "4 Departamentos",
+        "validez": false
+      },
+      {
+        "texto": "5 Departamentos",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 23 indica que el Tribunal de Impugnación tiene tres Departamentos."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ley6238",
+    "dificultad": "dificil",
+    "pregunta": "El Art. 24 bis define el recurso de 'queja' ante la Corte como:",
+    "respuestas": [
+      {
+        "texto": "Un recurso extraordinario sin efecto suspensivo",
+        "validez": false
+      },
+      {
+        "texto": "Un recurso que se presenta cuando no hay apelación ordinaria",
+        "validez": true
+      },
+      {
+        "texto": "Un recurso exclusivo en materia penal",
+        "validez": false
+      },
+      {
+        "texto": "Un recurso administrativo interno",
+        "validez": false
+      }
+    ],
+    "explicacion": "El Art. 24 bis describe la queja como recurso subsidiario cuando no cabe apelación ordinaria."
+  }
+]

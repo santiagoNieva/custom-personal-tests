@@ -54,10 +54,11 @@ cargarBtn.addEventListener("click", async () => {
 
     const proyecto = proyectoSelect.value;
     const categoria = categoriaSelect.value;
+    const n = parseInt(numInput.value, 10) || 1;
 
     try {
         // 1) Fetch preguntas no resueltas
-        const preguntas = await fetch55(currentUser.uid, proyecto, categoria);
+        const preguntas = await fetchRandomN(proyecto, categoria, n);
         if (preguntas.length === 0) {
             quizContainer.textContent = "¡No hay preguntas nuevas en esta categoría!";
             return;
@@ -83,13 +84,12 @@ cargarBtn.addEventListener("click", async () => {
         const btnChequear = document.createElement("button");
         btnChequear.textContent = "Chequear respuestas";
         btnChequear.addEventListener("click", () => {
-            // Muestro el modal con todas las preguntas + selecciones
             showResultsModal(loadedQuestions, userSelections);
 
-            // 5) Opcional: guardo progreso (los IDs de las preguntas que ya pasaron)
+            // Guardamos los IDs respondidos (para estadísticas o futuro uso)
             const answeredIds = loadedQuestions.map(p => p.id);
             saveProgress(currentUser.uid, proyecto, categoria, answeredIds)
-                .catch(err => console.error("Error guardando progreso:", err));
+                .catch(err => console.error(err));
         });
         quizContainer.appendChild(btnChequear);
 

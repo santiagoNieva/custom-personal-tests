@@ -1,0 +1,1577 @@
+[
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es la forma correcta de escribir la palabra que significa “captación mediante la mente”?",
+    "respuestas": [
+      {
+        "texto": "Apercepción",
+        "validez": true
+      },
+      {
+        "texto": "Apercención",
+        "validez": false
+      },
+      {
+        "texto": "Apreciación",
+        "validez": false
+      },
+      {
+        "texto": "Apersepción",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Seleccione la opción en la que **todas** las palabras están correctamente tildadas:",
+    "respuestas": [
+      {
+        "texto": "árbol, fácil, canción",
+        "validez": true
+      },
+      {
+        "texto": "arbol, fácil, canción",
+        "validez": false
+      },
+      {
+        "texto": "árbol, facil, canción",
+        "validez": false
+      },
+      {
+        "texto": "árbol, fácil, cancíon",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Complete la oración: «No sé _____ iré mañana».",
+    "respuestas": [
+      {
+        "texto": "sí",
+        "validez": false
+      },
+      {
+        "texto": "si",
+        "validez": true
+      },
+      {
+        "texto": "se",
+        "validez": false
+      },
+      {
+        "texto": "sé",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Elija la conjunción adversativa correcta:",
+    "respuestas": [
+      {
+        "texto": "Sino",
+        "validez": true
+      },
+      {
+        "texto": "Si nó",
+        "validez": false
+      },
+      {
+        "texto": "Sín o",
+        "validez": false
+      },
+      {
+        "texto": "Si no",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál oración está correctamente puntuada?",
+    "respuestas": [
+      {
+        "texto": "María Luis y Pedro llegaron tarde.",
+        "validez": false
+      },
+      {
+        "texto": "María, Luis y Pedro llegaron tarde.",
+        "validez": true
+      },
+      {
+        "texto": "María Luis, y Pedro llegaron tarde.",
+        "validez": false
+      },
+      {
+        "texto": "María Luis y, Pedro llegaron tarde.",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Escoja la palabra correctamente escrita:",
+    "respuestas": [
+      {
+        "texto": "Hervíboro",
+        "validez": false
+      },
+      {
+        "texto": "Herbívoro",
+        "validez": true
+      },
+      {
+        "texto": "Erbívoro",
+        "validez": false
+      },
+      {
+        "texto": "Hervíbora",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Seleccione la opción con uso **correcto** de ‘porque / por qué’:",
+    "respuestas": [
+      {
+        "texto": "¿Porque llegas tarde?",
+        "validez": false
+      },
+      {
+        "texto": "No vino por qué estaba enfermo.",
+        "validez": false
+      },
+      {
+        "texto": "¿Por qué no llamaste antes?",
+        "validez": true
+      },
+      {
+        "texto": "No sé porqué te vas.",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "La forma correcta es:",
+    "respuestas": [
+      {
+        "texto": "Excepción",
+        "validez": true
+      },
+      {
+        "texto": "Exepción",
+        "validez": false
+      },
+      {
+        "texto": "Excepciónn",
+        "validez": false
+      },
+      {
+        "texto": "Excepciónes",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál palabra se escribe con ‘g’ y no con ‘j’?:",
+    "respuestas": [
+      {
+        "texto": "Jeneral",
+        "validez": false
+      },
+      {
+        "texto": "Gerente",
+        "validez": true
+      },
+      {
+        "texto": "Jénero",
+        "validez": false
+      },
+      {
+        "texto": "Jerarquía",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Señale la frase con **mayúscula inicial** correctamente empleada:",
+    "respuestas": [
+      {
+        "texto": "la Corte Suprema de Justicia falló ayer.",
+        "validez": false
+      },
+      {
+        "texto": "La corte suprema de justicia falló ayer.",
+        "validez": false
+      },
+      {
+        "texto": "La Corte Suprema de Justicia falló ayer.",
+        "validez": true
+      },
+      {
+        "texto": "La Corte suprema De Justicia falló ayer.",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es la grafía correcta del plural de ‘régimen’?",
+    "respuestas": [
+      {
+        "texto": "Regímenes",
+        "validez": true
+      },
+      {
+        "texto": "Régimines",
+        "validez": false
+      },
+      {
+        "texto": "Regímeneses",
+        "validez": false
+      },
+      {
+        "texto": "Regimenes",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Escoja la opción correcta de homófonos:",
+    "respuestas": [
+      {
+        "texto": "A ver / Haber: «A ver si llega»",
+        "validez": true
+      },
+      {
+        "texto": "A ver / Haber: «Haber si llega»",
+        "validez": false
+      },
+      {
+        "texto": "A ver / Haber: «A ver si a ver»",
+        "validez": false
+      },
+      {
+        "texto": "A ver / Haber: «Haber si haber»",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿En cuál caso se emplea punto y coma correctamente?",
+    "respuestas": [
+      {
+        "texto": "Llegó tarde; porque perdió el tren.",
+        "validez": false
+      },
+      {
+        "texto": "Llegó tarde; sin embargo, aprobó.",
+        "validez": true
+      },
+      {
+        "texto": "Llegó tarde; y aprobó.",
+        "validez": false
+      },
+      {
+        "texto": "Llegó tarde; pero, aprobó.",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El **adverbio** de cantidad correcto es:",
+    "respuestas": [
+      {
+        "texto": "Demaciado",
+        "validez": false
+      },
+      {
+        "texto": "Demasiado",
+        "validez": true
+      },
+      {
+        "texto": "Demaciado",
+        "validez": false
+      },
+      {
+        "texto": "Demasaido",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es la forma correcta de ‘desenchufar’ en pretérito perfecto simple, 1.ª persona singular?",
+    "respuestas": [
+      {
+        "texto": "Desenchufé",
+        "validez": true
+      },
+      {
+        "texto": "Desenchufe",
+        "validez": false
+      },
+      {
+        "texto": "Desenchufó",
+        "validez": false
+      },
+      {
+        "texto": "Desenchuféé",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Seleccione la opción con tilde **diacrítica** correcta:",
+    "respuestas": [
+      {
+        "texto": "El habló con él.",
+        "validez": true
+      },
+      {
+        "texto": "El habló con el.",
+        "validez": false
+      },
+      {
+        "texto": "Él hablo con el.",
+        "validez": false
+      },
+      {
+        "texto": "El hablo con él.",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál palabra lleva tilde por ser esdrújula?",
+    "respuestas": [
+      {
+        "texto": "Limpido",
+        "validez": false
+      },
+      {
+        "texto": "Túnel",
+        "validez": false
+      },
+      {
+        "texto": "Matemáticas",
+        "validez": true
+      },
+      {
+        "texto": "Doctor",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Elija la opción correctamente escrita con ‘ll’ / ‘y’:",
+    "respuestas": [
+      {
+        "texto": "Arroyoó",
+        "validez": false
+      },
+      {
+        "texto": "Arroyó",
+        "validez": false
+      },
+      {
+        "texto": "Arrolló",
+        "validez": true
+      },
+      {
+        "texto": "Arroyó",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es el gerundio correcto de ‘leer’?",
+    "respuestas": [
+      {
+        "texto": "Leyendo",
+        "validez": true
+      },
+      {
+        "texto": "Leendo",
+        "validez": false
+      },
+      {
+        "texto": "Leyyendo",
+        "validez": false
+      },
+      {
+        "texto": "Leeyendo",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Señale la forma correcta del demostrativo:",
+    "respuestas": [
+      {
+        "texto": "Esa lápiz",
+        "validez": false
+      },
+      {
+        "texto": "Ese lápiz",
+        "validez": true
+      },
+      {
+        "texto": "Eso lápiz",
+        "validez": false
+      },
+      {
+        "texto": "Ésas lápiz",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué opción muestra bien el uso del **guion**?",
+    "respuestas": [
+      {
+        "texto": "Ex presidente",
+        "validez": false
+      },
+      {
+        "texto": "Ex‑presidente",
+        "validez": true
+      },
+      {
+        "texto": "Ex – presidente",
+        "validez": false
+      },
+      {
+        "texto": "Ex presidente",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Elija la palabra sin **h**:",
+    "respuestas": [
+      {
+        "texto": "Halar",
+        "validez": false
+      },
+      {
+        "texto": "Asta",
+        "validez": true
+      },
+      {
+        "texto": "Hélice",
+        "validez": false
+      },
+      {
+        "texto": "Humo",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál par contiene solo palabras agudas terminadas en ‘n’, ‘s’ o vocal (por lo tanto, tildadas)?",
+    "respuestas": [
+      {
+        "texto": "Camión – Café",
+        "validez": false
+      },
+      {
+        "texto": "Sofá – León",
+        "validez": false
+      },
+      {
+        "texto": "Avión – Compás",
+        "validez": true
+      },
+      {
+        "texto": "Café – Árbol",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué botón de la barra principal permite realizar la búsqueda de expedientes?",
+    "respuestas": [
+      {
+        "texto": "Agenda",
+        "validez": false
+      },
+      {
+        "texto": "Expediente",
+        "validez": true
+      },
+      {
+        "texto": "Auditoría",
+        "validez": false
+      },
+      {
+        "texto": "Configuración",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "El perfil que se utiliza para **dar de alta** expedientes nuevos es:",
+    "respuestas": [
+      {
+        "texto": "Oficina/Defensoría",
+        "validez": false
+      },
+      {
+        "texto": "Mesa de Entrada",
+        "validez": true
+      },
+      {
+        "texto": "Usuario Auditor",
+        "validez": false
+      },
+      {
+        "texto": "Funciones",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Según los atajos del S.A.E., la tecla asociada a la acción «Agregar» es:",
+    "respuestas": [
+      {
+        "texto": "F1",
+        "validez": false
+      },
+      {
+        "texto": "F2",
+        "validez": true
+      },
+      {
+        "texto": "F3",
+        "validez": false
+      },
+      {
+        "texto": "F4",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "En la función «Trámite», el campo que indica el inicio de la etapa del expediente es:",
+    "respuestas": [
+      {
+        "texto": "Motivo",
+        "validez": false
+      },
+      {
+        "texto": "Fecha Salida",
+        "validez": true
+      },
+      {
+        "texto": "Fecha Regreso",
+        "validez": false
+      },
+      {
+        "texto": "Responsable",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "En la pestaña **Historia**, el estado que señala que el escrito está listo para ser firmado es:",
+    "respuestas": [
+      {
+        "texto": "Borrador",
+        "validez": false
+      },
+      {
+        "texto": "Para Firmar",
+        "validez": true
+      },
+      {
+        "texto": "Firmado",
+        "validez": false
+      },
+      {
+        "texto": "Pendiente",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "El tipo de listado «Combinados» permite seleccionar un máximo de ___ campos:",
+    "respuestas": [
+      {
+        "texto": "4",
+        "validez": false
+      },
+      {
+        "texto": "6",
+        "validez": false
+      },
+      {
+        "texto": "8",
+        "validez": true
+      },
+      {
+        "texto": "10",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Los datos de los justiciables se cargan en la pestaña:",
+    "respuestas": [
+      {
+        "texto": "Datos",
+        "validez": false
+      },
+      {
+        "texto": "Partes",
+        "validez": true
+      },
+      {
+        "texto": "Registros",
+        "validez": false
+      },
+      {
+        "texto": "Agenda",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Para generar un nuevo expediente, en la pantalla inicial se debe pulsar el botón:",
+    "respuestas": [
+      {
+        "texto": "MODIFICAR",
+        "validez": false
+      },
+      {
+        "texto": "BORRAR",
+        "validez": false
+      },
+      {
+        "texto": "AGREGAR",
+        "validez": true
+      },
+      {
+        "texto": "CONSULTAR",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Las etiquetas en letra color ____ indican campos con listas desplegables.",
+    "respuestas": [
+      {
+        "texto": "Rojo",
+        "validez": false
+      },
+      {
+        "texto": "Azul",
+        "validez": true
+      },
+      {
+        "texto": "Verde",
+        "validez": false
+      },
+      {
+        "texto": "Gris",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Al crear un expediente, el campo **Fecha de inicio**:",
+    "respuestas": [
+      {
+        "texto": "Lo ingresa manualmente el usuario",
+        "validez": false
+      },
+      {
+        "texto": "Queda en blanco",
+        "validez": false
+      },
+      {
+        "texto": "Se completa automáticamente",
+        "validez": true
+      },
+      {
+        "texto": "No se utiliza",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "La función que sirve para crear expedientes complementarios se llama:",
+    "respuestas": [
+      {
+        "texto": "Registros",
+        "validez": false
+      },
+      {
+        "texto": "Incidencias",
+        "validez": true
+      },
+      {
+        "texto": "Diligencias",
+        "validez": false
+      },
+      {
+        "texto": "Trámite",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Las solicitudes u oficios remitidos a otras oficinas se cargan en la pestaña:",
+    "respuestas": [
+      {
+        "texto": "Registros",
+        "validez": false
+      },
+      {
+        "texto": "Diligencias",
+        "validez": true
+      },
+      {
+        "texto": "Radicaciones",
+        "validez": false
+      },
+      {
+        "texto": "Datos",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es el campo obligatorio que se actualiza cada vez que el expediente cambia de situación?",
+    "respuestas": [
+      {
+        "texto": "Motivo",
+        "validez": false
+      },
+      {
+        "texto": "Objeto",
+        "validez": false
+      },
+      {
+        "texto": "Estado",
+        "validez": true
+      },
+      {
+        "texto": "Carácter Parte",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option C."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "El número de expediente generado por el S.A.E. se encuentra marcado por defecto en los:",
+    "respuestas": [
+      {
+        "texto": "Listados Combinados",
+        "validez": true
+      },
+      {
+        "texto": "Listados de Auditoría",
+        "validez": false
+      },
+      {
+        "texto": "Listados de Registros",
+        "validez": false
+      },
+      {
+        "texto": "Agenda",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "manual_sae",
+    "dificultad": "mediano",
+    "pregunta": "Para adjuntar un archivo a una actuación, el S.A.E. permite subir archivos **EXCEPTO** en formato:",
+    "respuestas": [
+      {
+        "texto": "PDF",
+        "validez": false
+      },
+      {
+        "texto": "JPG",
+        "validez": false
+      },
+      {
+        "texto": "Excel",
+        "validez": false
+      },
+      {
+        "texto": "PNG",
+        "validez": true
+      }
+    ],
+    "explicacion": "The correct answer is option D."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Seleccione la forma correcta que significa “acto de dejar sin efecto una resolución”:",
+    "respuestas": [
+      {
+        "texto": "Nulidad",
+        "validez": true
+      },
+      {
+        "texto": "Nulidád",
+        "validez": false
+      },
+      {
+        "texto": "Nullidad",
+        "validez": false
+      },
+      {
+        "texto": "Núlidad",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es la grafía correcta del sustantivo que alude al cierre de un proceso sin condena?",
+    "respuestas": [
+      {
+        "texto": "Sobreseimiento",
+        "validez": true
+      },
+      {
+        "texto": "Sobrecimiento",
+        "validez": false
+      },
+      {
+        "texto": "Sobrecimiento",
+        "validez": false
+      },
+      {
+        "texto": "Sobreseiménto",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Señale la palabra que se escribe con tilde por ser esdrújula:",
+    "respuestas": [
+      {
+        "texto": "Jurisprudencia",
+        "validez": false
+      },
+      {
+        "texto": "Cautelar",
+        "validez": false
+      },
+      {
+        "texto": "Prisión",
+        "validez": false
+      },
+      {
+        "texto": "Excarcelación",
+        "validez": true
+      }
+    ],
+    "explicacion": "The correct answer is option D."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El adjetivo que describe un vicio de sentencia manifiesto es:",
+    "respuestas": [
+      {
+        "texto": "Arbitrariedad",
+        "validez": true
+      },
+      {
+        "texto": "Arbitráriez",
+        "validez": false
+      },
+      {
+        "texto": "Arbitrariédad",
+        "validez": false
+      },
+      {
+        "texto": "Arbitraríedad",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Escoja el participio correcto del verbo ‘apercibir’:",
+    "respuestas": [
+      {
+        "texto": "Apercibido",
+        "validez": true
+      },
+      {
+        "texto": "Apercivido",
+        "validez": false
+      },
+      {
+        "texto": "Apercibído",
+        "validez": false
+      },
+      {
+        "texto": "Apercivído",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El sustantivo que designa al acusador particular es:",
+    "respuestas": [
+      {
+        "texto": "Querellánte",
+        "validez": false
+      },
+      {
+        "texto": "Querellante",
+        "validez": true
+      },
+      {
+        "texto": "Quereyante",
+        "validez": false
+      },
+      {
+        "texto": "Quereyánte",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Qué opción contiene dos términos jurídicos correctamente escritos?",
+    "respuestas": [
+      {
+        "texto": "Conciliacción – Perjuício",
+        "validez": false
+      },
+      {
+        "texto": "Conciliación – Perjuicio",
+        "validez": true
+      },
+      {
+        "texto": "Conciliasión – Perjuício",
+        "validez": false
+      },
+      {
+        "texto": "Conciliación – Perjucio",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "La palabra adecuada para referirse a la “iniciación” de un proceso es:",
+    "respuestas": [
+      {
+        "texto": "Incoasión",
+        "validez": false
+      },
+      {
+        "texto": "Incoación",
+        "validez": true
+      },
+      {
+        "texto": "Incoacción",
+        "validez": false
+      },
+      {
+        "texto": "Incoazión",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Escoja la correcta para la suspensión de la pena mediante reglas de conducta:",
+    "respuestas": [
+      {
+        "texto": "Probation",
+        "validez": true
+      },
+      {
+        "texto": "Provation",
+        "validez": false
+      },
+      {
+        "texto": "Probationn",
+        "validez": false
+      },
+      {
+        "texto": "Probbation",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Seleccione la forma correcta del sustantivo que alude al “beneficio de quedar exento del pago”:",
+    "respuestas": [
+      {
+        "texto": "Eximición",
+        "validez": true
+      },
+      {
+        "texto": "Eximiciónn",
+        "validez": false
+      },
+      {
+        "texto": "Esimición",
+        "validez": false
+      },
+      {
+        "texto": "Esimición",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cómo se escribe el término latino que significa ‘que se pronuncie el derecho’?",
+    "respuestas": [
+      {
+        "texto": "Dictum obiter",
+        "validez": false
+      },
+      {
+        "texto": "Obiter dictum",
+        "validez": true
+      },
+      {
+        "texto": "Óbiter dictum",
+        "validez": false
+      },
+      {
+        "texto": "Obitter dictum",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "La palabra apropiada para la intervención voluntaria de un tercero que apoya una de las partes es:",
+    "respuestas": [
+      {
+        "texto": "Coadyuvante",
+        "validez": true
+      },
+      {
+        "texto": "Coayudante",
+        "validez": false
+      },
+      {
+        "texto": "Coadyubante",
+        "validez": false
+      },
+      {
+        "texto": "Coayuvante",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El verbo que significa ‘hacer perder fuerza a una acción o demanda’ se escribe:",
+    "respuestas": [
+      {
+        "texto": "Henervar",
+        "validez": false
+      },
+      {
+        "texto": "Enervar",
+        "validez": true
+      },
+      {
+        "texto": "Enarvar",
+        "validez": false
+      },
+      {
+        "texto": "Enervár",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál de las siguientes expresiones latinas está escrita correctamente?",
+    "respuestas": [
+      {
+        "texto": "Ratio decidendi",
+        "validez": true
+      },
+      {
+        "texto": "Rattio decidendi",
+        "validez": false
+      },
+      {
+        "texto": "Ratio desidendi",
+        "validez": false
+      },
+      {
+        "texto": "Ration decidendi",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El término que designa la cesación de la competencia de un juez por motivo especial es:",
+    "respuestas": [
+      {
+        "texto": "Inibición",
+        "validez": false
+      },
+      {
+        "texto": "Inhibición",
+        "validez": true
+      },
+      {
+        "texto": "Inhibicion",
+        "validez": false
+      },
+      {
+        "texto": "Inivisión",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Señale la forma correcta que significa ‘acción de privar de libertad al procesado’:",
+    "respuestas": [
+      {
+        "texto": "Prision preventiva",
+        "validez": false
+      },
+      {
+        "texto": "Prisión preventiva",
+        "validez": true
+      },
+      {
+        "texto": "Prisión preventíva",
+        "validez": false
+      },
+      {
+        "texto": "Prision prevénta",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El sustantivo que nombra la manifestación fáctica o jurídica sobre la que se funda la acción es:",
+    "respuestas": [
+      {
+        "texto": "Causa",
+        "validez": true
+      },
+      {
+        "texto": "Causaión",
+        "validez": false
+      },
+      {
+        "texto": "Causación",
+        "validez": false
+      },
+      {
+        "texto": "Casua",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál es la ortografía correcta del delito de falsear la verdad un funcionario público?",
+    "respuestas": [
+      {
+        "texto": "Prevaricato",
+        "validez": true
+      },
+      {
+        "texto": "Prebaricato",
+        "validez": false
+      },
+      {
+        "texto": "Prevarícato",
+        "validez": false
+      },
+      {
+        "texto": "Prevaricatto",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Escoja la palabra bien escrita que alude al tribunal que juzga en segunda instancia:",
+    "respuestas": [
+      {
+        "texto": "Ad quem",
+        "validez": true
+      },
+      {
+        "texto": "Ad quemm",
+        "validez": false
+      },
+      {
+        "texto": "Ad cuen",
+        "validez": false
+      },
+      {
+        "texto": "Ad quemé",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El vocablo adecuado para describir ‘acción de ejecutar antes de tiempo una pena’ es:",
+    "respuestas": [
+      {
+        "texto": "Anticipación punitiva",
+        "validez": true
+      },
+      {
+        "texto": "Anticipasión punitiva",
+        "validez": false
+      },
+      {
+        "texto": "Anticipación punnitiva",
+        "validez": false
+      },
+      {
+        "texto": "Antisipación punitiva",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Señale el par con grafía correcta:",
+    "respuestas": [
+      {
+        "texto": "Conculcar – Connivencia",
+        "validez": true
+      },
+      {
+        "texto": "Conculcar – Conivencia",
+        "validez": false
+      },
+      {
+        "texto": "Conculcar – Conivensia",
+        "validez": false
+      },
+      {
+        "texto": "Concultar – Connivencia",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "Seleccione la opción con tilde diacrítica correctamente aplicada:",
+    "respuestas": [
+      {
+        "texto": "Se dictó autos y se los notificó.",
+        "validez": true
+      },
+      {
+        "texto": "Sé dictó autos y se los notificó.",
+        "validez": false
+      },
+      {
+        "texto": "Se dictó autos y sé los notificó.",
+        "validez": false
+      },
+      {
+        "texto": "Sé dicto autos y se los notificó.",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "¿Cuál término refiere a la ‘ausencia prolongada y desconocida de una persona’?",
+    "respuestas": [
+      {
+        "texto": "Ausencia cajusada",
+        "validez": false
+      },
+      {
+        "texto": "Ausencia justificada",
+        "validez": true
+      },
+      {
+        "texto": "Ausencia skapada",
+        "validez": false
+      },
+      {
+        "texto": "Ausencia injustificada",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "El verbo bien escrito para ‘dar firmeza a un acto procesal’ es:",
+    "respuestas": [
+      {
+        "texto": "Convalidar",
+        "validez": true
+      },
+      {
+        "texto": "Convalidad",
+        "validez": false
+      },
+      {
+        "texto": "Conbalidar",
+        "validez": false
+      },
+      {
+        "texto": "Conbálidar",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option A."
+  },
+  {
+    "proyecto": "Defensoría",
+    "categoria": "ortografía",
+    "dificultad": "mediano",
+    "pregunta": "La expresión latina correcta para “por causa” (en el sentido de motivación) es:",
+    "respuestas": [
+      {
+        "texto": "Causa causae",
+        "validez": false
+      },
+      {
+        "texto": "Motu proprio",
+        "validez": true
+      },
+      {
+        "texto": "Causa causae",
+        "validez": false
+      },
+      {
+        "texto": "Causa causae",
+        "validez": false
+      }
+    ],
+    "explicacion": "The correct answer is option B."
+  }
+]

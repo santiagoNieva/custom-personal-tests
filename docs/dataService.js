@@ -79,3 +79,24 @@ export async function fetch55(uid, proyecto, categoria) {
     const snap2 = await getDocs(q2);
     return snap2.docs.map(d => ({ id: d.id, ...d.data() }));
 }
+
+
+export async function fetchRandomN(proyecto, categoria, n) {
+    // 1) Recupera todos los docs matching
+    const q = query(
+        collection(db, "preguntas"),
+        where("proyecto", "==", proyecto),
+        where("categoria", "==", categoria)
+    );
+    const snap = await getDocs(q);
+    const arr = snap.docs.map(d => ({ id: d.id, ...d.data() }));
+
+    // 2) Fisher–Yates shuffle
+    for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+
+    // 3) Corta a n (si n > arr.length devuelve todo)
+    return arr.slice(0, n);
+}
